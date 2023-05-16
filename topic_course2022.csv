@@ -1,0 +1,967 @@
+"","ateneo","classe_di_laurea","corso_di_studio","year","Topic","regione","numero_di_università_reg"
+"1","BARI","L-2","Biotecnologie Industriali per lo Sviluppo Sostenibile",2022,"Bioeconomia","Puglia",7
+"2","BARI","L-2","Biotecnologie Industriali per lo Sviluppo Sostenibile",2022,"Green","Puglia",7
+"3","BARI","L-10","Lettere",2022,"Soft Skills","Puglia",7
+"4","BARI","L-P02","Tecniche per l'agricoltura sostenibile",2022,"Agricoltura Di Precisione","Puglia",7
+"5","BARI","L-P02","Tecniche per l'agricoltura sostenibile",2022,"Economia Circolare","Puglia",7
+"6","BARI","LM-18","informatica",2022,"Artificial Intelligence","Puglia",7
+"7","BARI","LM-69","Medicina delle Piante",2022,"Soft Skills","Puglia",7
+"8","BARI","LM-69","SVILUPPO DELL’INNOVAZIONE NEI SISTEMI AGROALIMENTARI",2022,"Economia Circolare","Puglia",7
+"9","BARI","LM-69","SVILUPPO DELL’INNOVAZIONE NEI SISTEMI AGROALIMENTARI",2022,"Bioeconomia","Puglia",7
+"10","BARI","LM-70","Scienze e Tecnologie Alimentari",2022,"Economia Circolare","Puglia",7
+"11","BARI","LM-77","Gestione Strategica e Marketing Digitale",2022,"Digital Marketing","Puglia",7
+"12","BARI","LM-77","Gestione Strategica e Marketing Digitale",2022,"Big Data","Puglia",7
+"13","BARI","LM-77","Gestione Strategica e Marketing Digitale",2022,"Business Analytics","Puglia",7
+"14","BARI","LM-77","Gestione Strategica e Marketing Digitale",2022,"Soft Skills","Puglia",7
+"15","BARI","LM-77","Innovazione, Governance e Sostenibilità",2022,"Economia Circolare","Puglia",7
+"16","BARI","LM-77","Innovazione, Governance e Sostenibilità",2022,"Green","Puglia",7
+"17","BARI","LM-91","Data Science",2022,"Data Science","Puglia",7
+"18","BARI","LM-91","Data Science",2022,"Cloud","Puglia",7
+"19","BARI","LM-91","Data Science",2022,"Machine Learning","Puglia",7
+"20","BARI","LM/DS","Scienze strategiche marittimo-portuali",2022,"Green","Puglia",7
+"21","BARI","LM/SC-GIUR","Diritto dello sviluppo sostenibile",2022,"Giustizia Sociale","Puglia",7
+"22","BARI","LM Data","Data Science",2022,"Big Data","Puglia",7
+"23","BARI","LM Data","Data Science",2022,"Data Science","Puglia",7
+"24","BARI","LM Data","Data Science",2022,"Cloud","Puglia",7
+"25","BARI","LM Data","Data Science",2022,"Machine Learning","Puglia",7
+"26","Politecnico di BARI","L-8","Ingegneria dei Sistemi Medicali",2022,"Big Data","Puglia",7
+"27","Politecnico di BARI","LM-28","Ingegneria Elettrica",2022,"Mobilità Elettrica","Puglia",7
+"28","Politecnico di BARI","LM-30","Ingegneria energetica",2022,"Green","Puglia",7
+"29","Politecnico di BARI","LM-33","Ingegneria Meccanica",2022,"Big Data","Puglia",7
+"30","Politecnico di BARI","LM-33","Ingegneria Meccanica",2022,"Data Science","Puglia",7
+"31","Politecnico di BARI","LM Data","Trasformazione Digitale",2022,"Big Data","Puglia",7
+"32","Politecnico di BARI","LM Data","Trasformazione Digitale",2022,"Machine Learning","Puglia",7
+"33","Politecnico di BARI","LM Data","Trasformazione Digitale",2022,"Data Analytics","Puglia",7
+"34","LUM ""Giuseppe Degennaro""","L/GASTR","Enogastronomia e Hotellerie internazionale",2022,"Nutraceutica","Puglia",7
+"35","LUM ""Giuseppe Degennaro""","LM-77","ECONOMIA E MANAGEMENT",2022,"Data Science","Puglia",7
+"36","LUM ""Giuseppe Degennaro""","LM-77","ECONOMIA E MANAGEMENT",2022,"Digital Transformation","Puglia",7
+"37","LUM ""Giuseppe Degennaro""","LM-77","ECONOMIA E MANAGEMENT",2022,"Sustainability","Puglia",7
+"38","LUM ""Giuseppe Degennaro""","LM-77","ECONOMIA E MANAGEMENT",2022,"Blockchain","Puglia",7
+"39","LUM ""Giuseppe Degennaro""","LM-77","ECONOMIA E MANAGEMENT",2022,"Cybersecurity","Puglia",7
+"40","BASILICATA","LM-41","Medicina e chirurgia",2022,"Malattie Rare","Basilicata",1
+"41","BASILICATA","LM-70","Scienze e Tecnologie Alimentari",2022,"Economia Circolare","Basilicata",1
+"42","BERGAMO","LM-16","Economia e Finanza",2022,"Data Analytics","Lombardia",13
+"43","BERGAMO","LM-16","Economia e Finanza",2022,"Green","Lombardia",13
+"44","BERGAMO","LM-16","Economia e Finanza",2022,"Machine Learning","Lombardia",13
+"45","BERGAMO","LM-31","Ingegneria e gestione delle tecnologie per la salute",2022,"Cybersecurity","Lombardia",13
+"46","BERGAMO","LM-37","STUDI INTERCULTURALI IN LINGUE E LETTERATURE",2022,"Digital Humanities","Lombardia",13
+"47","BERGAMO","LM-56","Economia e analisi dei dati",2022,"Big Data","Lombardia",13
+"48","BERGAMO","LM-56","Economia e analisi dei dati",2022,"Machine Learning","Lombardia",13
+"49","BERGAMO","LM-77","ECONOMIA AZIENDALE, DIREZIONE AMMINISTRATIVA E PROFESSIONE",2022,"Sustainability","Lombardia",13
+"50","BERGAMO","LM-77","Management, Marketing e Finanza",2022,"Digital Marketing","Lombardia",13
+"51","BERGAMO","LM-80","GEOURBANISTICA. Analisi e pianificazione territoriale, urbana, ambientale e valorizzazione del paesaggio",2022,"Big Data","Lombardia",13
+"52","BERGAMO","LM-81","Diritti umani, migrazioni e cooperazione internazionale",2022,"Obiettivi Di Sviluppo Sostenibile","Lombardia",13
+"53","BERGAMO","LM-81","Diritti umani, migrazioni e cooperazione internazionale",2022,"Giustizia Riparativa","Lombardia",13
+"54","BOLOGNA","L-2","Genomica",2022,"Data Science","Emilia-Romagna",4
+"55","BOLOGNA","L-14","Consulente del lavoro e delle relazioni aziendali",2022,"Big Data","Emilia-Romagna",4
+"56","BOLOGNA","L-14","Consulente del lavoro e delle relazioni aziendali",2022,"Cybersecurity","Emilia-Romagna",4
+"57","BOLOGNA","L-25","Economia e Marketing nel sistema agro-industriale",2022,"Economia Circolare","Emilia-Romagna",4
+"58","BOLOGNA","L-33","Economia, politica e scienze sociali",2022,"Big Data","Emilia-Romagna",4
+"59","BOLOGNA","L-33","Economia, politica e scienze sociali",2022,"Python","Emilia-Romagna",4
+"60","BOLOGNA","L-P01","Tecniche per l'edilizia e il territorio",2022,"Building Information Modeling","Emilia-Romagna",4
+"61","BOLOGNA","L-P03","Tecnologie dei sistemi informatici",2022,"Cloud","Emilia-Romagna",4
+"62","BOLOGNA","L-P03","Tecnologie dei sistemi informatici",2022,"Big Data","Emilia-Romagna",4
+"63","BOLOGNA","LM-4","Architettura e pratiche creative per la città e il territorio",2022,"Economia Circolare","Emilia-Romagna",4
+"64","BOLOGNA","LM-8","Biotecnologie molecolari e industriali",2022,"Economia Circolare","Emilia-Romagna",4
+"65","BOLOGNA","LM-15","FILOLOGIA, LETTERATURA E TRADIZIONE CLASSICA",2022,"Digital Humanities","Emilia-Romagna",4
+"66","BOLOGNA","LM-16","Mercato energetico rinnovabile e Finanza",2022,"Python","Emilia-Romagna",4
+"67","BOLOGNA","LM-17","Metodi avanzati in fisica delle particelle",2022,"Big Data","Emilia-Romagna",4
+"68","BOLOGNA","LM-17","Metodi avanzati in fisica delle particelle",2022,"Machine Learning","Emilia-Romagna",4
+"69","BOLOGNA","LM-18","Intelligenza Artificiale",2022,"Artificial Intelligence","Emilia-Romagna",4
+"70","BOLOGNA","LM-18","Intelligenza Artificiale",2022,"Machine Learning","Emilia-Romagna",4
+"71","BOLOGNA","LM-18","Intelligenza Artificiale",2022,"Data Science","Emilia-Romagna",4
+"72","BOLOGNA","LM-18","Intelligenza Artificiale",2022,"Soft Skills","Emilia-Romagna",4
+"73","BOLOGNA","LM-18","Informatica",2022,"Soft Skills","Emilia-Romagna",4
+"74","BOLOGNA","LM-32","Ingegneria informatica",2022,"Big Data","Emilia-Romagna",4
+"75","BOLOGNA","LM-32","Ingegneria informatica",2022,"Cloud Computing","Emilia-Romagna",4
+"76","BOLOGNA","LM-43","Informatica umanistica e cultura digitale",2022,"Digital Humanities","Emilia-Romagna",4
+"77","BOLOGNA","LM-52","RELAZIONI INTERNAZIONALI",2022,"Soft Skills","Emilia-Romagna",4
+"78","BOLOGNA","LM-54","Innovazione e regolamentazione chimica",2022,"Economia Circolare","Emilia-Romagna",4
+"79","BOLOGNA","LM-54","Innovazione e regolamentazione chimica",2022,"Green","Emilia-Romagna",4
+"80","BOLOGNA","LM-54","Chimica",2022,"Green","Emilia-Romagna",4
+"81","BOLOGNA","LM-63","Governance e politiche dell’innovazione digitale",2022,"Cloud","Emilia-Romagna",4
+"82","BOLOGNA","LM-63","Governance e politiche dell’innovazione digitale",2022,"Data Science","Emilia-Romagna",4
+"83","BOLOGNA","LM-69","Agricoltura di precisione e sostenibile",2022,"Agricoltura Di Precisione","Emilia-Romagna",4
+"84","BOLOGNA","LM-71","Tecnologie a bassa intensita' di carbonio e chimica sostenibile",2022,"Green","Emilia-Romagna",4
+"85","BOLOGNA","LM-74","Geologia e Territorio",2022,"Economia Circolare","Emilia-Romagna",4
+"86","BOLOGNA","LM-77","Management internazionale",2022,"Big Data","Emilia-Romagna",4
+"87","BOLOGNA","LM-82","SCIENZE STATISTICHE",2022,"Big Data","Emilia-Romagna",4
+"88","BOLOGNA","LM-86","Metabolismo e gestione delle produzioni animali nell'economia circolare",2022,"Economia Circolare","Emilia-Romagna",4
+"89","BOLOGNA","LM-91","Gestione della trasformazione digitale",2022,"Digital Transformation","Emilia-Romagna",4
+"90","BOLOGNA","LM-91","Gestione della trasformazione digitale",2022,"Data Science","Emilia-Romagna",4
+"91","BOLOGNA","LM/SC-GIUR","Scienze Giuridiche",2022,"Giustizia Sociale","Emilia-Romagna",4
+"92","Libera Università di BOLZANO","L-31","Informatica e Management delle Aziende digitali",2022,"Soft Skills","Trentino-Alto Adige",2
+"93","Libera Università di BOLZANO","L-39","Servizio sociale",2022,"Giustizia Sociale","Trentino-Alto Adige",2
+"94","Libera Università di BOLZANO","L/GASTR","Scienze Enogastronomiche di Montagna",2022,"Economia Circolare","Trentino-Alto Adige",2
+"95","Libera Università di BOLZANO","LM-12","Design eco-sociale",2022,"Economia Circolare","Trentino-Alto Adige",2
+"96","Libera Università di BOLZANO","LM-12","Design eco-sociale",2022,"Service Design","Trentino-Alto Adige",2
+"97","Libera Università di BOLZANO","LM-18","Data Science Computazionale",2022,"Data Science","Trentino-Alto Adige",2
+"98","Libera Università di BOLZANO","LM-18","Data Science Computazionale",2022,"Machine Learning","Trentino-Alto Adige",2
+"99","Libera Università di BOLZANO","LM-18","Ingegneria del Software per i Sistemi Informativi",2022,"Data Analytics","Trentino-Alto Adige",2
+"100","Libera Università di BOLZANO","LM-77","Accounting e Finanza",2022,"Big Data","Trentino-Alto Adige",2
+"101","BRESCIA","L-8","Ingegneria delle tecnologie per l'impresa digitale",2022,"Big Data","Lombardia",13
+"102","BRESCIA","L-8","Ingegneria delle tecnologie per l'impresa digitale",2022,"Soft Skills","Lombardia",13
+"103","BRESCIA","L-25","Sistemi agricoli sostenibili",2022,"Agricoltura Di Precisione","Lombardia",13
+"104","BRESCIA","L-33","Economia e azienda digitale",2022,"Big Data","Lombardia",13
+"105","BRESCIA","LM-13","Farmacia",2022,"Nutraceutica","Lombardia",13
+"106","BRESCIA","LM-33","Ingegneria Meccanica",2022,"Soft Skills","Lombardia",13
+"107","BRESCIA","LM-69","Tecnologie per la Transizione Ecologica in Agricoltura",2022,"Economia Circolare","Lombardia",13
+"108","BRESCIA","LM/SC-GIUR","Scienze Giuridiche dell'Innovazione",2022,"Internet Of Things","Lombardia",13
+"109","BRESCIA","LM/SC-GIUR","Scienze Giuridiche dell'Innovazione",2022,"Blockchain","Lombardia",13
+"110","BRESCIA","LM Data","Analytics e Data Science per l'economia e il management",2022,"Analytics","Lombardia",13
+"111","BRESCIA","LM Data","Analytics e Data Science per l'economia e il management",2022,"Data Science","Lombardia",13
+"112","BRESCIA","LM Data","Analytics e Data Science per l'economia e il management",2022,"Soft Skills","Lombardia",13
+"113","BRESCIA","LM Data","Analytics e Data Science per l'economia e il management",2022,"Machine Learning","Lombardia",13
+"114","BRESCIA","LM Data","Analytics e Data Science per l'economia e il management",2022,"Deep Learning","Lombardia",13
+"115","CAGLIARI","L-8","Ingegneria Elettronica, Informatica e delle Telecomunicazioni",2022,"Cloud","Sardegna",2
+"116","CAGLIARI","L-20","Scienze della Comunicazione",2022,"Fake News","Sardegna",2
+"117","CAGLIARI","L-31","Informatica Applicata e Data Analytics",2022,"Data Analytics","Sardegna",2
+"118","CAGLIARI","L-31","Informatica Applicata e Data Analytics",2022,"Machine Learning","Sardegna",2
+"119","CAGLIARI","L-31","Informatica Applicata e Data Analytics",2022,"Big Data","Sardegna",2
+"120","CAGLIARI","L-31","Informatica Applicata e Data Analytics",2022,"Cybersecurity","Sardegna",2
+"121","CAGLIARI","LM-18","Informatica",2022,"Internet Of Things","Sardegna",2
+"122","CAGLIARI","LM-18","Informatica",2022,"Big Data","Sardegna",2
+"123","CAGLIARI","LM-27","Ingegneria delle Tecnologie per Internet",2022,"Servizi E Applicazioni","Sardegna",2
+"124","CAGLIARI","LM-27","Ingegneria delle Tecnologie per Internet",2022,"Cloud","Sardegna",2
+"125","CAGLIARI","LM-27","Ingegneria delle Tecnologie per Internet",2022,"Machine Learning","Sardegna",2
+"126","CAGLIARI","LM-27","Ingegneria delle Tecnologie per Internet",2022,"Cloud Computing","Sardegna",2
+"127","CAGLIARI","LM-29","Ingegneria Elettronica",2022,"Internet Delle Cose","Sardegna",2
+"128","CAGLIARI","LM-29","Ingegneria Elettronica",2022,"Machine Learning","Sardegna",2
+"129","CAGLIARI","LM-30","Ingegneria Energetica",2022,"Mobilità Elettrica","Sardegna",2
+"130","CAGLIARI","LM-32","Computer Engineering, Cybersecurity and Artificial Intelligence",2022,"Cybersecurity","Sardegna",2
+"131","CAGLIARI","LM-32","Computer Engineering, Cybersecurity and Artificial Intelligence",2022,"Artificial Intelligence","Sardegna",2
+"132","CAGLIARI","LM-32","Computer Engineering, Cybersecurity and Artificial Intelligence",2022,"Cloud","Sardegna",2
+"133","CAGLIARI","LM-32","Computer Engineering, Cybersecurity and Artificial Intelligence",2022,"Internet Of Things","Sardegna",2
+"134","CAGLIARI","LM-35","Ingegneria Ambientale per lo Sviluppo Sostenibile",2022,"Economia Circolare","Sardegna",2
+"135","CAGLIARI","LM-91","Data Science, Business Analytics e Innovazione",2022,"Data Science","Sardegna",2
+"136","CAGLIARI","LM-91","Data Science, Business Analytics e Innovazione",2022,"Business Analytics","Sardegna",2
+"137","della CALABRIA","L-29","Scienza della Nutrizione",2022,"Nutraceutica","Calabria",4
+"138","della CALABRIA","L-41","Statistica per Data Science",2022,"Data Science","Calabria",4
+"139","della CALABRIA","L-41","Statistica per Data Science",2022,"Machine Learning","Calabria",4
+"140","della CALABRIA","L-41","Statistica per Data Science",2022,"Data Analytics","Calabria",4
+"141","della CALABRIA","LM-2","Intelligence per la legalita' e la tutela dei beni culturali e archeologici",2022,"Cybersecurity","Calabria",4
+"142","della CALABRIA","LM-31","Ingegneria Gestionale",2022,"Soft Skills","Calabria",4
+"143","della CALABRIA","LM-32","Ingegneria Informatica",2022,"Big Data","Calabria",4
+"144","della CALABRIA","LM-32","Ingegneria Informatica",2022,"Cloud Computing","Calabria",4
+"145","della CALABRIA","LM-32","Ingegneria Informatica",2022,"Data Science","Calabria",4
+"146","della CALABRIA","LM-32","Ingegneria Informatica",2022,"Analytics","Calabria",4
+"147","della CALABRIA","LM-32","Ingegneria Informatica",2022,"Machine Learning","Calabria",4
+"148","della CALABRIA","LM-32","Ingegneria Informatica",2022,"Cybersecurity","Calabria",4
+"149","della CALABRIA","LM-32","Ingegneria Informatica",2022,"Artificial Intelligence","Calabria",4
+"150","della CALABRIA","LM-43","Gestione e Conservazione dei Documenti digitali",2022,"Text Mining","Calabria",4
+"151","della CALABRIA","LM-43","Gestione e Conservazione dei Documenti digitali",2022,"Flipped Classroom","Calabria",4
+"152","della CALABRIA","LM-82","Data Science per le Strategie Aziendali",2022,"Data Science","Calabria",4
+"153","della CALABRIA","LM-82","Data Science per le Strategie Aziendali",2022,"Big Data","Calabria",4
+"154","della CALABRIA","LM-82","Data Science per le Strategie Aziendali",2022,"Analisi Delle Serie Storiche","Calabria",4
+"155","della CALABRIA","LM-82","Data Science per le Strategie Aziendali",2022,"Cloud","Calabria",4
+"156","della CALABRIA","LM-82","Data Science per le Strategie Aziendali",2022,"Internet Of Things","Calabria",4
+"157","della CALABRIA","LM-82","Data Science per le Strategie Aziendali",2022,"Data Analytics","Calabria",4
+"158","della CALABRIA","LM-82","Data Science per le Strategie Aziendali",2022,"Deep Learning","Calabria",4
+"159","CAMERINO","L-32","AMBIENTE E GESTIONE SOSTENIBILE DELLE RISORSE NATURALI",2022,"Economia Circolare","Marche",4
+"160","CAMERINO","L-32","AMBIENTE E GESTIONE SOSTENIBILE DELLE RISORSE NATURALI",2022,"Green Economy","Marche",4
+"161","CASSINO e LAZIO MERIDIONALE","LM-47","Management dello Sport",2022,"Soft Skills","Lazio",11
+"162","CATANIA","L-25","Scienze e tecnologie agrarie",2022,"Agricoltura Di Precisione","Sicilia",4
+"163","CATANIA","L-29","Scienze farmaceutiche applicate",2022,"Nutraceutica","Sicilia",4
+"164","CATANIA","L-33","Economia",2022,"Soft Skills","Sicilia",4
+"165","CATANIA","LM-7","Biotecnologie agrarie",2022,"Nutraceutica","Sicilia",4
+"166","CATANIA","LM-22","Chemical engineering for industrial sustainability (Ingegneria chimica per la sostenibilita' industriale)",2022,"Sustainability","Sicilia",4
+"167","CATANIA","LM-27","Ingegneria delle telecomunicazioni",2022,"Internet Of Things","Sicilia",4
+"168","CATANIA","LM-32","Ingegneria informatica",2022,"Cloud","Sicilia",4
+"169","CATANIA","LM-32","Ingegneria informatica",2022,"Big Data","Sicilia",4
+"170","CATANIA","LM-32","Ingegneria informatica",2022,"Internet Of Things","Sicilia",4
+"171","CATANIA","LM-32","Ingegneria informatica",2022,"Machine Learning","Sicilia",4
+"172","CATANIA","LM-43","Scienze del testo per le professioni digitali",2022,"Machine Learning","Sicilia",4
+"173","CATANIA","LM-43","Scienze del testo per le professioni digitali",2022,"Big Data","Sicilia",4
+"174","CATANIA","LM-43","Scienze del testo per le professioni digitali",2022,"Diritto Della Proprietà Intellettuale","Sicilia",4
+"175","CATANIA","LM Data","Data Science",2022,"Data Science","Sicilia",4
+"176","CATANIA","LM Data","Data Science",2022,"Machine Learning","Sicilia",4
+"177","CATANIA","LM Data","Data Science",2022,"Internet Of Things","Sicilia",4
+"178","CATANZARO","L-29","SCIENZE E TECNOLOGIE COSMETICHE E DEI PRODOTTI DEL BENESSERE",2022,"Nutraceutica","Calabria",4
+"179","CATANZARO","L-38","Scienze e tecnologie delle produzioni animali",2022,"Economia Circolare","Calabria",4
+"180","CATANZARO","LM-9","Biotecnologie Molecolari per la Medicina Personalizzata",2022,"Machine Learning","Calabria",4
+"181","CATANZARO","LM-63","Amministrazioni Pubbliche e Società",2022,"Data Management","Calabria",4
+"182","CHIETI-PESCARA","L-29","TECNOLOGIE ECO-SOSTENIBILI E TOSSICOLOGIA AMBIENTALE",2022,"Economia Circolare","Abruzzo",3
+"183","CHIETI-PESCARA","LM-12","Eco Design Inclusivo",2022,"Green Economy","Abruzzo",3
+"184","CHIETI-PESCARA","LM-56","Economia e finanza delle imprese e degli ecosistemi",2022,"Big Data","Abruzzo",3
+"185","CHIETI-PESCARA","LM-56","Economia e Business Analytics",2022,"Analytics","Abruzzo",3
+"186","CHIETI-PESCARA","LM-56","Economia e Business Analytics",2022,"Big Data","Abruzzo",3
+"187","CHIETI-PESCARA","LM-56","Economia e Business Analytics",2022,"Data Analytics","Abruzzo",3
+"188","CHIETI-PESCARA","LM-56","Economia e Business Analytics",2022,"Machine Learning","Abruzzo",3
+"189","CHIETI-PESCARA","LM-56","Economia e Business Analytics",2022,"Analisi Delle Serie Storiche","Abruzzo",3
+"190","CHIETI-PESCARA","LM-56","Economia e Business Analytics",2022,"Business Analytics","Abruzzo",3
+"191","CHIETI-PESCARA","LM-56","Economia e Business Analytics",2022,"Data Science","Abruzzo",3
+"192","CHIETI-PESCARA","LM-77","Marketing Digitale",2022,"Digital Marketing","Abruzzo",3
+"193","UKE - Università Kore di ENNA","L-8","Ingegneria Informatica",2022,"Machine Learning","Sicilia",4
+"194","UKE - Università Kore di ENNA","L-18","Economia e Management",2022,"Big Data","Sicilia",4
+"195","UKE - Università Kore di ENNA","L-22","Scienze delle Attività Motorie e Sportive",2022,"Soft Skills","Sicilia",4
+"196","UKE - Università Kore di ENNA","LM-32","Ingegneria dell'Intelligenza Artificiale e della Sicurezza Informatica",2022,"Machine Learning","Sicilia",4
+"197","FERRARA","L-25","Tecnologie agrarie e Acquacoltura del Delta",2022,"Agricoltura Di Precisione","Emilia-Romagna",4
+"198","FERRARA","L-P03","Tecnologie per l'industria digitale",2022,"Motori Elettrici","Emilia-Romagna",4
+"199","FERRARA","LM-8","Biotecnologie industriali dei biofarmaci, cosmetici e nutraceutici​",2022,"Green","Emilia-Romagna",4
+"200","FIRENZE","L-18","Economia Sostenibile per le Sfide Sociali.",2022,"Sustainable Development Goals","Toscana",4
+"201","FIRENZE","L-18","Economia Sostenibile per le Sfide Sociali.",2022,"Economia Circolare","Toscana",4
+"202","FIRENZE","L-18","Economia Sostenibile per le Sfide Sociali.",2022,"Green","Toscana",4
+"203","FIRENZE","L-18","Economia Sostenibile per le Sfide Sociali.",2022,"Obiettivi Di Sviluppo Sostenibile","Toscana",4
+"204","FIRENZE","L-37","Sviluppo Sostenibile, Cooperazione e Gestione dei Conflitti",2022,"Economia Circolare","Toscana",4
+"205","FIRENZE","L-37","Sviluppo Sostenibile, Cooperazione e Gestione dei Conflitti",2022,"Obiettivi Di Sviluppo Sostenibile","Toscana",4
+"206","FIRENZE","L-P02","Tecnologie e trasformazioni avanzate per il settore legno arredo edilizia",2022,"Green Economy","Toscana",4
+"207","FIRENZE","L-P02","Tecnologie e trasformazioni avanzate per il settore legno arredo edilizia",2022,"Economia Circolare","Toscana",4
+"208","FIRENZE","LM-7","Biotecnologie per la Gestione Ambientale e l'Agricoltura Sostenibile",2022,"Green Economy","Toscana",4
+"209","FIRENZE","LM-7","Biotecnologie per la Gestione Ambientale e l'Agricoltura Sostenibile",2022,"Bioeconomia","Toscana",4
+"210","FIRENZE","LM-7","Biotecnologie per la Gestione Ambientale e l'Agricoltura Sostenibile",2022,"Economia Circolare","Toscana",4
+"211","FIRENZE","LM-31","Ingegneria Gestionale",2022,"Data Analytics","Toscana",4
+"212","FIRENZE","LM-32","Intelligenza Artificiale",2022,"Artificial Intelligence","Toscana",4
+"213","FIRENZE","LM-33","Ingegneria Meccanica per la Sostenibilità",2022,"Sustainability","Toscana",4
+"214","FIRENZE","LM-33","Ingegneria Meccanica per la Sostenibilità",2022,"Economia Circolare","Toscana",4
+"215","FIRENZE","LM-64","Intermediazione culturale e religiosa",2022,"Fake News","Toscana",4
+"216","FIRENZE","LM-82","Statistica e data science",2022,"Data Science","Toscana",4
+"217","FIRENZE","LM-92","Pratiche, linguaggi e culture della comunicazione",2022,"Soft Skills","Toscana",4
+"218","FOGGIA","L-1","PATRIMONIO E TURISMO CULTURALE",2022,"Digital Humanities","Puglia",7
+"219","FOGGIA","L-9","INGEGNERIA GESTIONALE",2022,"Big Data","Puglia",7
+"220","FOGGIA","L-20","COMUNICAZIONE, RELAZIONI PUBBLICHE E TECNOLOGIE DIGITALI",2022,"Big Data","Puglia",7
+"221","FOGGIA","L-33","ECONOMIA E MANAGEMENT",2022,"Economia Circolare","Puglia",7
+"222","FOGGIA","L-33","ECONOMIA E MANAGEMENT",2022,"Bioeconomia","Puglia",7
+"223","FOGGIA","LM-77","IMPRENDITORIALITÀ E MANAGEMENT INTERNAZIONALE",2022,"Digital Marketing","Puglia",7
+"224","GENOVA","L-P03","Tecnologie Industriali",2022,"Economia Circolare","Liguria",1
+"225","GENOVA","LM-22","Ingegneria Chimica e di Processo",2022,"Economia Circolare","Liguria",1
+"226","GENOVA","LM-27","Internet and Multimedia Engineering- Ingegneria dell'Internet e della Multimedialita'",2022,"Internet Of Things","Liguria",1
+"227","GENOVA","LM-32","Robotics Engineering - Ingegneria della Robotica",2022,"Artificial Intelligence","Liguria",1
+"228","GENOVA","LM-56","ECONOMICS & DATA SCIENCE",2022,"Data Science","Liguria",1
+"229","GENOVA","LM-56","ECONOMICS & DATA SCIENCE",2022,"Python","Liguria",1
+"230","GENOVA","LM-77","Management",2022,"Digital Marketing","Liguria",1
+"231","GENOVA","LM-77","Management per la transizione energetica e ambientale",2022,"Green","Liguria",1
+"232","GENOVA","LM-77","Management per la transizione energetica e ambientale",2022,"Green Economy","Liguria",1
+"233","GENOVA","LM-77","Management per la transizione energetica e ambientale",2022,"Obiettivi Di Sviluppo Sostenibile","Liguria",1
+"234","GENOVA","LM-92","Digital Humanities - Comunicazione e nuovi media",2022,"Digital Humanities","Liguria",1
+"235","GENOVA","LM/DS","Tecnologie ingegneristiche per le strategie (e la sicurezza)",2022,"Soft Skills","Liguria",1
+"236","INSUBRIA","LM-8","Biotechnology for the Bio-based and Health Industry",2022,"Nutraceutica","Lombardia",13
+"237","INSUBRIA","LM-8","Biotechnology for the Bio-based and Health Industry",2022,"Bioeconomia","Lombardia",13
+"238","INSUBRIA","LM-8","Biotechnology for the Bio-based and Health Industry",2022,"Economia Circolare","Lombardia",13
+"239","INSUBRIA","LM-18","Informatica",2022,"Machine Learning","Lombardia",13
+"240","L'AQUILA","L-19","SCIENZE DELL'EDUCAZIONE E DELLA FORMAZIONE",2022,"Soft Skills","Abruzzo",3
+"241","L'AQUILA","L-39","SCIENZE DEL SERVIZIO SOCIALE",2022,"Soft Skills","Abruzzo",3
+"242","L'AQUILA","L-P01","TECNICHE DELLA PROTEZIONE CIVILE E SICUREZZA DEL TERRITORIO",2022,"Rilevamento Topografico","Abruzzo",3
+"243","L'AQUILA","LM-25","INGEGNERIA DEI SISTEMI DI CONTROLLO E DELL’AUTOMAZIONE",2022,"Mobilità Elettrica","Abruzzo",3
+"244","L'AQUILA","LM-25","INGEGNERIA DEI SISTEMI DI CONTROLLO E DELL’AUTOMAZIONE",2022,"Machine Learning","Abruzzo",3
+"245","L'AQUILA","LM-25","INGEGNERIA DEI SISTEMI DI CONTROLLO E DELL’AUTOMAZIONE",2022,"Motori Elettrici","Abruzzo",3
+"246","L'AQUILA","LM-28","Ingegneria Elettrica",2022,"Mobilità Elettrica","Abruzzo",3
+"247","L'AQUILA","LM-32","INGEGNERIA INFORMATICA",2022,"Big Data","Abruzzo",3
+"248","L'AQUILA","LM-32","INGEGNERIA INFORMATICA",2022,"Cybersecurity","Abruzzo",3
+"249","L'AQUILA","LM-32","INGEGNERIA INFORMATICA",2022,"Cloud Computing","Abruzzo",3
+"250","L'AQUILA","LM-32","INGEGNERIA INFORMATICA",2022,"Internet Of Things","Abruzzo",3
+"251","L'AQUILA","LM-32","INGEGNERIA INFORMATICA",2022,"Machine Learning","Abruzzo",3
+"252","L'AQUILA","LM Data","DATA SCIENCE APPLICATA",2022,"Data Science","Abruzzo",3
+"253","L'AQUILA","LM Data","DATA SCIENCE APPLICATA",2022,"Big Data","Abruzzo",3
+"254","L'AQUILA","LM Data","DATA SCIENCE APPLICATA",2022,"Machine Learning","Abruzzo",3
+"255","MACERATA","L-33","Economia, Territorio e Ambiente",2022,"Economia Circolare","Marche",4
+"256","MACERATA","L-33","Economia, Territorio e Ambiente",2022,"Big Data","Marche",4
+"257","MACERATA","L-33","Economia, Territorio e Ambiente",2022,"Green Economy","Marche",4
+"258","MACERATA","L-P03","Umanesimo digitale: sistemi multimediali intelligenti per le digital humanities",2022,"Digital Humanities","Marche",4
+"259","MACERATA","LM-16","Finanza e Mercati",2022,"Big Data","Marche",4
+"260","MACERATA","LM-16","Finanza e Mercati",2022,"Blockchain","Marche",4
+"261","MACERATA","LM-19","Comunicazione e culture digitali",2022,"Soft Skills","Marche",4
+"262","MACERATA","LM-77","Management e Marketing Internazionale",2022,"Blockchain","Marche",4
+"263","MACERATA","LM-84","Storia e archeologia per l’innovazione",2022,"Digital Humanities","Marche",4
+"264","MACERATA","LM/SC-GIUR","Scienze giuridiche per l'innovazione",2022,"Big Data","Marche",4
+"265","MACERATA","LM/SC-GIUR","Scienze giuridiche per l'innovazione",2022,"Blockchain","Marche",4
+"266","MESSINA","L-2","Biotecnologie",2022,"Green Economy","Sicilia",4
+"267","MESSINA","L-8","Ingegneria Biomedica",2022,"Machine Learning","Sicilia",4
+"268","MESSINA","L-25","Scienze e Tecnologie Agrarie per la Transizione Ecologica",2022,"Economia Circolare","Sicilia",4
+"269","MESSINA","L-25","Scienze e Tecnologie Agrarie per la Transizione Ecologica",2022,"Bioeconomia","Sicilia",4
+"270","MESSINA","LM-19","Metodi e linguaggi del giornalismo",2022,"Fake News","Sicilia",4
+"271","MESSINA","LM-32","Ingegneria e Scienze Informatiche",2022,"Cloud Computing","Sicilia",4
+"272","MESSINA","LM-32","Ingegneria e Scienze Informatiche",2022,"Internet Delle Cose","Sicilia",4
+"273","MESSINA","LM-32","Ingegneria e Scienze Informatiche",2022,"Big Data","Sicilia",4
+"274","MESSINA","LM-41","Medicina e chirurgia",2022,"Malattie Rare","Sicilia",4
+"275","MESSINA","LM-55","Scienze cognitive e teorie della comunicazione",2022,"Artificial Intelligence","Sicilia",4
+"276","MESSINA","LM-55","Scienze cognitive e teorie della comunicazione",2022,"Ethics","Sicilia",4
+"277","MESSINA","LM Data","Data Science",2022,"Data Science","Sicilia",4
+"278","MESSINA","LM Data","Data Science",2022,"Digital Transformation","Sicilia",4
+"279","MESSINA","LM Data","Data Science",2022,"Machine Learning","Sicilia",4
+"280","MESSINA","LM Data","Data Science",2022,"Cloud","Sicilia",4
+"281","MESSINA","LM Data","Data Science",2022,"Internet Of Things","Sicilia",4
+"282","MILANO","L-2","Biotecnologia",2022,"Bioeconomia","Lombardia",13
+"283","MILANO","L-2","Biotecnologia",2022,"Soft Skills","Lombardia",13
+"284","MILANO","L-25","Agricoltura sostenibile",2022,"Economia Circolare","Lombardia",13
+"285","MILANO","LM-7","Biotecnologia per la bioeconomia",2022,"Bioeconomia","Lombardia",13
+"286","MILANO","LM-7","Biotecnologia per la bioeconomia",2022,"Soft Skills","Lombardia",13
+"287","MILANO","LM-48","Analisi, pianificazione e gestione sostenibile del territorio",2022,"Soft Skills","Lombardia",13
+"288","MILANO","LM-62","Scienze politiche e di governo",2022,"Soft Skills","Lombardia",13
+"289","MILANO","LM-69","Scienze agrarie per la sostenibilità",2022,"Agricoltura Di Precisione","Lombardia",13
+"290","MILANO","LM-73","Valorizzazione e sviluppo sostenibile delle aree montane",2022,"Bioeconomia","Lombardia",13
+"291","MILANO","LM-73","Valorizzazione e sviluppo sostenibile delle aree montane",2022,"Economia Circolare","Lombardia",13
+"292","MILANO","LM-73","Gestione sostenibile delle risorse naturali",2022,"Green","Lombardia",13
+"293","MILANO","LM-75","Cambiamenti Ambientali e Sostenibilità Globale",2022,"Sustainability","Lombardia",13
+"294","MILANO","LM-76","Environmental and Food Economics",2022,"Sustainability","Lombardia",13
+"295","MILANO","LM-79","Geofisica",2022,"Machine Learning","Lombardia",13
+"296","MILANO","LM/SC-GIUR","Diritto e sviluppo sostenibile",2022,"Obiettivi Di Sviluppo Sostenibile","Lombardia",13
+"297","MILANO","LM/SC-GIUR","Diritto e sviluppo sostenibile",2022,"Sustainable Development Goals","Lombardia",13
+"298","MILANO","LM Data","Scienza dei dati per l'economia",2022,"Data Science","Lombardia",13
+"299","MILANO","LM Data","Scienza dei dati per l'economia",2022,"Data Management","Lombardia",13
+"300","MILANO","LM Data","Scienza dei dati per l'economia",2022,"Machine Learning","Lombardia",13
+"301","MILANO","LM Data","Scienza dei dati per l'economia",2022,"Cloud Computing","Lombardia",13
+"302","MILANO","LM Data","Scienza dei dati per l'economia",2022,"Analisi Delle Serie Storiche","Lombardia",13
+"303","MILANO","LM Data","Scienza dei dati per l'economia",2022,"Scalabilità","Lombardia",13
+"304","MILANO","LM Data","Scienza dei dati per l'economia",2022,"Cloud","Lombardia",13
+"305","MILANO-BICOCCA","LM-18","Informatica",2022,"Cloud","Lombardia",13
+"306","MILANO-BICOCCA","LM-18","Informatica",2022,"Internet Of Things","Lombardia",13
+"307","MILANO-BICOCCA","LM-41","Medicina e chirurgia",2022,"Machine Learning","Lombardia",13
+"308","MILANO-BICOCCA","LM-85","Scienze pedagogiche",2022,"Posture","Lombardia",13
+"309","MILANO-BICOCCA","LM-91","INTELLIGENZA ARTIFICIALE PER LE SCIENZE E LE TECNOLOGIE",2022,"Artificial Intelligence","Lombardia",13
+"310","MILANO-BICOCCA","LM Data","SCIENZA DEI DATI",2022,"Data Science","Lombardia",13
+"311","MILANO-BICOCCA","LM Data","SCIENZA DEI DATI",2022,"Machine Learning","Lombardia",13
+"312","MILANO-BICOCCA","LM Data","SCIENZA DEI DATI",2022,"Deep Learning","Lombardia",13
+"313","MILANO-BICOCCA","LM Data","SCIENZA DEI DATI",2022,"Internet Delle Cose","Lombardia",13
+"314","Politecnico di MILANO","LM-12","Design del prodotto Integrato",2022,"Soft Skills","Lombardia",13
+"315","Politecnico di MILANO","LM-12","Design digitale e dell'interazione",2022,"Internet Of Things","Lombardia",13
+"316","Politecnico di MILANO","LM-12","Design & Engineering - Progetto e ingegnerizzazione del prodotto industriale",2022,"Soft Skills","Lombardia",13
+"317","Politecnico di MILANO","LM-26","Ingegneria per l'Agricoltura",2022,"Agricoltura Di Precisione","Lombardia",13
+"318","Politecnico di MILANO","LM-28","Electrical Engineering - Ingegneria Elettrica",2022,"Soft Skills","Lombardia",13
+"319","Politecnico di MILANO","LM-32","Ingegneria del calcolo ad alte prestazioni",2022,"Cloud Computing","Lombardia",13
+"320","Politecnico di MILANO","LM-32","Ingegneria del calcolo ad alte prestazioni",2022,"Big Data","Lombardia",13
+"321","Politecnico di MILANO","LM-32","Ingegneria del calcolo ad alte prestazioni",2022,"Blockchain","Lombardia",13
+"322","Politecnico di MILANO","LM-32","Ingegneria del calcolo ad alte prestazioni",2022,"Internet Delle Cose","Lombardia",13
+"323","Politecnico di MILANO","LM-32","Ingegneria del calcolo ad alte prestazioni",2022,"Cloud","Lombardia",13
+"324","Bocconi MILANO","L-18","Business (World Bachelor in Business)",2022,"Soft Skills","Lombardia",13
+"325","Bocconi MILANO","L-35","Scienze matematiche e della computazione per l'intelligenza artificiale",2022,"Artificial Intelligence","Lombardia",13
+"326","Bocconi MILANO","L-35","Scienze matematiche e della computazione per l'intelligenza artificiale",2022,"Machine Learning","Lombardia",13
+"327","Bocconi MILANO","L-35","Scienze matematiche e della computazione per l'intelligenza artificiale",2022,"Soft Skills","Lombardia",13
+"328","Bocconi MILANO","LM-56","Economia e Management dell'Innovazione e della Tecnologia",2022,"Green","Lombardia",13
+"329","Bocconi MILANO","LM-76","Sostenibilità Trasformativa",2022,"Sustainability","Lombardia",13
+"330","Bocconi MILANO","LM-77","Management",2022,"Green","Lombardia",13
+"331","Bocconi MILANO","LM-82","Scienza dei Dati e Analisi di Business",2022,"Data Science","Lombardia",13
+"332","Bocconi MILANO","LM-82","Scienza dei Dati e Analisi di Business",2022,"Business Analytics","Lombardia",13
+"333","Bocconi MILANO","LM-82","Scienza dei Dati e Analisi di Business",2022,"Big Data","Lombardia",13
+"334","HUMANITAS University","LM-41","Medicina e chirurgia",2022,"Soft Skills","Lombardia",13
+"335","HUMANITAS University","LM-41","Medicina e chirurgia",2022,"Machine Learning","Lombardia",13
+"336","HUMANITAS University","LM-41","Medicina e chirurgia",2022,"Priority","Lombardia",13
+"337","IULM - MILANO","L-11","Lingue, cultura e comunicazione digitale",2022,"Digital Humanities","Lombardia",13
+"338","IULM - MILANO","L-15","Turismo, management e cultura",2022,"Business Analytics","Lombardia",13
+"339","IULM - MILANO","LM-59","Comunicazione strategica",2022,"Sustainability","Lombardia",13
+"340","IULM - MILANO","LM-59","Marketing, consumi e comunicazione",2022,"Digital Marketing","Lombardia",13
+"341","IULM - MILANO","LM-91","Intelligenza Artificiale, impresa e società",2022,"Big Data","Lombardia",13
+"342","IULM - MILANO","LM-91","Intelligenza Artificiale, impresa e società",2022,"Machine Learning","Lombardia",13
+"343","IULM - MILANO","LM-91","Intelligenza Artificiale, impresa e società",2022,"Analytics","Lombardia",13
+"344","IULM - MILANO","LM-91","Intelligenza Artificiale, impresa e società",2022,"Digital Marketing","Lombardia",13
+"345","S. Raffaele MILANO","L-36","Scienze politiche e strategie globali",2022,"Soft Skills","Lombardia",13
+"346","S. Raffaele MILANO","LM-41","Medicina e chirurgia",2022,"Big Data","Lombardia",13
+"347","S. Raffaele MILANO","LM-51","Psicologia Cognitiva nella Comunicazione della Salute",2022,"Big Data","Lombardia",13
+"348","MODENA e REGGIO EMILIA","L-18","Marketing digitale",2022,"Big Data","Emilia-Romagna",4
+"349","MODENA e REGGIO EMILIA","L-41","Analisi dei dati per l'impresa e la finanza",2022,"Data Science","Emilia-Romagna",4
+"350","MODENA e REGGIO EMILIA","L-41","Analisi dei dati per l'impresa e la finanza",2022,"Cloud Computing","Emilia-Romagna",4
+"351","MODENA e REGGIO EMILIA","L-41","Analisi dei dati per l'impresa e la finanza",2022,"Machine Learning","Emilia-Romagna",4
+"352","MODENA e REGGIO EMILIA","LM-8","BIOTECNOLOGIE INDUSTRIALI",2022,"Economia Circolare","Emilia-Romagna",4
+"353","MODENA e REGGIO EMILIA","LM-25","Ingegneria dell'Automazione Digitale",2022,"Machine Learning","Emilia-Romagna",4
+"354","MODENA e REGGIO EMILIA","LM-25","Ingegneria dell'Automazione Digitale",2022,"Internet Of Things","Emilia-Romagna",4
+"355","MODENA e REGGIO EMILIA","LM-32","Ingegneria Informatica",2022,"Big Data","Emilia-Romagna",4
+"356","MODENA e REGGIO EMILIA","LM-32","Ingegneria Informatica",2022,"Cloud Computing","Emilia-Romagna",4
+"357","MODENA e REGGIO EMILIA","LM-43","Media Education per le Discipline letterarie e l'Editoria",2022,"Text Mining","Emilia-Romagna",4
+"358","MODENA e REGGIO EMILIA","LM-56","Economia, politiche pubbliche e sostenibilità",2022,"Soft Skills","Emilia-Romagna",4
+"359","MODENA e REGGIO EMILIA","LM-69","SOSTENIBILITA’ INTEGRATA DEI SISTEMI AGRICOLI",2022,"Bioeconomia","Emilia-Romagna",4
+"360","MODENA e REGGIO EMILIA","LM-69","SOSTENIBILITA’ INTEGRATA DEI SISTEMI AGRICOLI",2022,"Economia Circolare","Emilia-Romagna",4
+"361","MODENA e REGGIO EMILIA","LM-69","SOSTENIBILITA’ INTEGRATA DEI SISTEMI AGRICOLI",2022,"Agricoltura Di Precisione","Emilia-Romagna",4
+"362","MODENA e REGGIO EMILIA","LM-69","SOSTENIBILITA’ INTEGRATA DEI SISTEMI AGRICOLI",2022,"Soft Skills","Emilia-Romagna",4
+"363","MODENA e REGGIO EMILIA","LM-77","Relazioni di lavoro",2022,"Analytics","Emilia-Romagna",4
+"364","MODENA e REGGIO EMILIA","LM-77","Relazioni di lavoro",2022,"Digital Transformation","Emilia-Romagna",4
+"365","MOLISE","L/GASTR","Scienze e culture del cibo",2022,"Fake News","Molise",1
+"366","MOLISE","LM-77","Management, Imprenditorialità e Innovazione",2022,"Green Economy","Molise",1
+"367","Napoli Federico II","L-7","Ingegneria delle Infrastrutture e Servizi",2022,"Internet Delle Cose","Campania",10
+"368","Napoli Federico II","L-10","Lettere Classiche",2022,"Digital Humanities","Campania",10
+"369","Napoli Federico II","L-18","Gestione dell'Ospitalita' Turistica",2022,"Soft Skills","Campania",10
+"370","Napoli Federico II","L-21","Sviluppo sostenibile e reti territoriali",2022,"Economia Circolare","Campania",10
+"371","Napoli Federico II","L-21","Sviluppo sostenibile e reti territoriali",2022,"Big Data","Campania",10
+"372","Napoli Federico II","L-30","Fisica",2022,"Data Science","Campania",10
+"373","Napoli Federico II","L-41","STATISTICA PER L'IMPRESA E LA SOCIETA'",2022,"Data Analytics","Campania",10
+"374","Napoli Federico II","L-41","STATISTICA PER L'IMPRESA E LA SOCIETA'",2022,"Big Data","Campania",10
+"375","Napoli Federico II","LM-23","INGEGNERIA DEI TRASPORTI E DELLA MOBILITÀ",2022,"Machine Learning","Campania",10
+"376","Napoli Federico II","LM-32","Ingegneria informatica",2022,"Analytics","Campania",10
+"377","Napoli Federico II","LM-32","Ingegneria informatica",2022,"Deep Learning","Campania",10
+"378","Napoli Federico II","LM-32","Ingegneria informatica",2022,"Internet Of Things","Campania",10
+"379","Napoli Federico II","LM-33","Ingegneria dei veicoli autonomi",2022,"Machine Learning","Campania",10
+"380","Napoli Federico II","LM-33","Ingegneria dei veicoli autonomi",2022,"Big Data","Campania",10
+"381","Napoli Federico II","LM-33","Ingegneria dei veicoli autonomi",2022,"Data Analytics","Campania",10
+"382","Napoli Federico II","LM-33","Ingegneria dei veicoli autonomi",2022,"Data Science","Campania",10
+"383","Napoli Federico II","LM-41","Medicina e chirurgia",2022,"Malattie Rare","Campania",10
+"384","Napoli Federico II","LM-71","Chimica Industriale per l'Economia Circolare e la Bioeconomia",2022,"Economia Circolare","Campania",10
+"385","Napoli Federico II","LM-77","Management dell'Innovazione e dell'Internazionalizzazione",2022,"Sustainability","Campania",10
+"386","Napoli Federico II","LM-77","Management dell'Innovazione e dell'Internazionalizzazione",2022,"Digital Marketing","Campania",10
+"387","Napoli Federico II","LM-77","Management dell'Innovazione e dell'Internazionalizzazione",2022,"Blockchain","Campania",10
+"388","Napoli Federico II","LM-88","Sociologia Digitale e Analisi del Web",2022,"Big Data","Campania",10
+"389","Napoli Federico II","LM-88","Sociologia Digitale e Analisi del Web",2022,"Analytics","Campania",10
+"390","Napoli Federico II","LM-91","Data Science",2022,"Big Data","Campania",10
+"391","Napoli Federico II","LM-91","Data Science",2022,"Machine Learning","Campania",10
+"392","CAMPANIA - ""L. VANVITELLI""","L-4","Design e Comunicazione",2022,"Sustainability","Campania",10
+"393","CAMPANIA - ""L. VANVITELLI""","L-18","Economia Aziendale",2022,"Digital Transformation","Campania",10
+"394","CAMPANIA - ""L. VANVITELLI""","L-41","Data Analytics",2022,"Data Analytics","Campania",10
+"395","CAMPANIA - ""L. VANVITELLI""","L-41","Data Analytics",2022,"Machine Learning","Campania",10
+"396","CAMPANIA - ""L. VANVITELLI""","L-41","Data Analytics",2022,"Python","Campania",10
+"397","CAMPANIA - ""L. VANVITELLI""","L-41","Data Analytics",2022,"Business Analytics","Campania",10
+"398","CAMPANIA - ""L. VANVITELLI""","L-41","Data Analytics",2022,"Data Science","Campania",10
+"399","CAMPANIA - ""L. VANVITELLI""","L-P01","Tecniche per l'Edilizia, il Territorio e l'Ambiente",2022,"Building Information Modeling","Campania",10
+"400","CAMPANIA - ""L. VANVITELLI""","LM-32","Ingegneria Informatica",2022,"Cloud","Campania",10
+"401","CAMPANIA - ""L. VANVITELLI""","LM-56","ECONOMIA, FINANZA E MERCATI",2022,"Economia Circolare","Campania",10
+"402","CAMPANIA - ""L. VANVITELLI""","LM Data","DATA SCIENCE",2022,"Data Science","Campania",10
+"403","CAMPANIA - ""L. VANVITELLI""","LM Data","DATA SCIENCE",2022,"Machine Learning","Campania",10
+"404","CAMPANIA - ""L. VANVITELLI""","LM Data","DATA SCIENCE",2022,"Deep Learning","Campania",10
+"405","""Parthenope"" di NAPOLI","L-8","Ingegneria e Scienze Informatiche per la cybersecurity",2022,"Cybersecurity","Campania",10
+"406","""Parthenope"" di NAPOLI","L-8","Ingegneria e Scienze Informatiche per la cybersecurity",2022,"Cloud","Campania",10
+"407","""Parthenope"" di NAPOLI","L-8","Ingegneria e Scienze Informatiche per la cybersecurity",2022,"Cloud Computing","Campania",10
+"408","""Parthenope"" di NAPOLI","L-16","Scienze dell'Amministrazione, dell'Organizzazione e Consulenza del lavoro",2022,"Sustainability","Campania",10
+"409","""Parthenope"" di NAPOLI","L-18","Management delle imprese turistiche",2022,"Digital Marketing","Campania",10
+"410","""Parthenope"" di NAPOLI","L-33","Economia e Commercio",2022,"Economia Circolare","Campania",10
+"411","""Parthenope"" di NAPOLI","LM-18","Informatica Applicata (Machine Learning e Big Data)",2022,"Machine Learning","Campania",10
+"412","""Parthenope"" di NAPOLI","LM-18","Informatica Applicata (Machine Learning e Big Data)",2022,"Big Data","Campania",10
+"413","""Parthenope"" di NAPOLI","LM-18","Informatica Applicata (Machine Learning e Big Data)",2022,"Deep Learning","Campania",10
+"414","""Parthenope"" di NAPOLI","LM-18","Informatica Applicata (Machine Learning e Big Data)",2022,"Cloud Computing","Campania",10
+"415","""Parthenope"" di NAPOLI","LM-31","Ingegneria Gestionale",2022,"Green","Campania",10
+"416","""Parthenope"" di NAPOLI","LM-77","MARKETING E MANAGEMENT INTERNAZIONALE",2022,"Digital Marketing","Campania",10
+"417","Suor Orsola Benincasa - NAPOLI","L-18","ECONOMIA AZIENDALE E GREEN ECONOMY",2022,"Green Economy","Campania",10
+"418","Suor Orsola Benincasa - NAPOLI","L-18","ECONOMIA AZIENDALE E GREEN ECONOMY",2022,"Green","Campania",10
+"419","Suor Orsola Benincasa - NAPOLI","LM-43","Digital Humanities. Beni Culturali e Materie Letterarie",2022,"Digital Humanities","Campania",10
+"420","Suor Orsola Benincasa - NAPOLI","LM-43","Digital Humanities. Beni Culturali e Materie Letterarie",2022,"Data Management","Campania",10
+"421","Suor Orsola Benincasa - NAPOLI","LM-77","Economia, Management e Sostenibilità",2022,"Economia Circolare","Campania",10
+"422","Suor Orsola Benincasa - NAPOLI","LM-77","Economia, Management e Sostenibilità",2022,"Green Economy","Campania",10
+"423","PADOVA","L-13","Biologia della salute umana e ambientale",2022,"Big Data","Lombardia",13
+"424","PADOVA","L-18","Economia",2022,"Analytics","Lombardia",13
+"425","PADOVA","L-18","Economia",2022,"Digital Marketing","Lombardia",13
+"426","PADOVA","L-41","Statistica per le Tecnologie e le Scienze",2022,"Big Data","Lombardia",13
+"427","PADOVA","L-P01","Tecnologie digitali per l'edilizia e il territorio",2022,"Rilevamento Topografico","Lombardia",13
+"428","PADOVA","LM-9","Biotecnologie per l'alimentazione",2022,"Green Economy","Lombardia",13
+"429","PADOVA","LM-9","Biotecnologie per l'alimentazione",2022,"Soft Skills","Lombardia",13
+"430","PADOVA","LM-9","Pharmaceutical Biotechnologies - Biotecnologie farmaceutiche",2022,"Soft Skills","Lombardia",13
+"431","PADOVA","LM-17","Fisica dei Dati",2022,"Big Data","Lombardia",13
+"432","PADOVA","LM-17","Fisica dei Dati",2022,"Data Science","Lombardia",13
+"433","PADOVA","LM-17","Fisica dei Dati",2022,"Machine Learning","Lombardia",13
+"434","PADOVA","LM-22","Ingegneria chimica e dei processi industriali",2022,"Economia Circolare","Lombardia",13
+"435","PADOVA","LM-22","Ingegneria chimica e dei processi industriali",2022,"Sustainability","Lombardia",13
+"436","PADOVA","LM-22","Ingegneria chimica e dei processi industriali",2022,"Industrial Engineering","Lombardia",13
+"437","PADOVA","LM-25","Ingegneria dell'automazione",2022,"Machine Learning","Lombardia",13
+"438","PADOVA","LM-25","Ingegneria dell'automazione",2022,"Industrial Engineering","Lombardia",13
+"439","PADOVA","LM-25","Ingegneria dell'automazione",2022,"Data Science","Lombardia",13
+"440","PADOVA","LM-27","ICT for Internet and multimedia - Ingegneria per le Comunicazioni Multimediali e Internet",2022,"Internet Delle Cose","Lombardia",13
+"441","PADOVA","LM-27","ICT for Internet and multimedia - Ingegneria per le Comunicazioni Multimediali e Internet",2022,"Big Data","Lombardia",13
+"442","PADOVA","LM-27","ICT for Internet and multimedia - Ingegneria per le Comunicazioni Multimediali e Internet",2022,"Internet Of Things","Lombardia",13
+"443","PADOVA","LM-29","Ingegneria elettronica",2022,"Industrial Engineering","Lombardia",13
+"444","PADOVA","LM-32","Ingegneria informatica",2022,"Priority","Lombardia",13
+"445","PADOVA","LM-32","Ingegneria informatica",2022,"Big Data","Lombardia",13
+"446","PADOVA","LM-32","Ingegneria informatica",2022,"Artificial Intelligence","Lombardia",13
+"447","PADOVA","LM-51","Psicologia Clinica, Sociale e Interculturale",2022,"Sustainability","Lombardia",13
+"448","PADOVA","LM-51","Psicologia Clinica, Sociale e Interculturale",2022,"Clinical Practice","Lombardia",13
+"449","PADOVA","LM-61","Cibo e Salute",2022,"Sustainability","Lombardia",13
+"450","PADOVA","LM-66","Sicurezza Informatica",2022,"Cybersecurity","Lombardia",13
+"451","PADOVA","LM-66","Sicurezza Informatica",2022,"Deep Learning","Lombardia",13
+"452","PADOVA","LM-66","Sicurezza Informatica",2022,"Digital Transformation","Lombardia",13
+"453","PADOVA","LM-69","Sustainable agriculture - Agricoltura sostenibile",2022,"Agricoltura Di Precisione","Lombardia",13
+"454","PADOVA","LM-69","Sustainable agriculture - Agricoltura sostenibile",2022,"Sustainability","Lombardia",13
+"455","PADOVA","LM-73","Scienze forestali e ambientali",2022,"Obiettivi Di Sviluppo Sostenibile","Lombardia",13
+"456","PADOVA","LM-81","Sviluppo Territoriale Sostenibile – Climate Change, diversity, cooperation",2022,"Economia Circolare","Lombardia",13
+"457","PADOVA","LM-87","Innovazione e servizio sociale",2022,"Giustizia Riparativa","Lombardia",13
+"458","PADOVA","LM-91","Data Science",2022,"Data Science","Lombardia",13
+"459","PADOVA","LM-92","Strategie di comunicazione",2022,"Fake News","Lombardia",13
+"460","PADOVA","LM-92","Strategie di comunicazione",2022,"Big Data","Lombardia",13
+"461","PADOVA","LM-92","Strategie di comunicazione",2022,"Analytics","Lombardia",13
+"462","PADOVA","LM-53.","Ingegneria dei Materiali",2022,"Soft Skills","Lombardia",13
+"463","PADOVA","LM-53.","Ingegneria dei Materiali",2022,"Industrial Engineering","Lombardia",13
+"464","PALERMO","L-8","Ingegneria Elettronica",2022,"Big Data","Sicilia",4
+"465","PALERMO","L-8","Ingegneria Elettronica",2022,"Internet Of Things","Sicilia",4
+"466","PALERMO","L-8","Ingegneria dell'Innovazione per le Imprese Digitali",2022,"Machine Learning","Sicilia",4
+"467","PALERMO","L-8","Ingegneria Cibernetica",2022,"Machine Learning","Sicilia",4
+"468","PALERMO","L-8","Ingegneria Cibernetica",2022,"Cloud","Sicilia",4
+"469","PALERMO","L-8","Ingegneria Cibernetica",2022,"Big Data","Sicilia",4
+"470","PALERMO","L-8","Ingegneria Cibernetica",2022,"Internet Delle Cose","Sicilia",4
+"471","PALERMO","L-9","Ingegneria Gestionale",2022,"Digital Transformation","Sicilia",4
+"472","PALERMO","L-9","Ingegneria Elettrica per la E-Mobility",2022,"Mobilità Elettrica","Sicilia",4
+"473","PALERMO","L-18","Economia e amministrazione aziendale",2022,"Economia Circolare","Sicilia",4
+"474","PALERMO","L-26","Scienze e Tecnologie Agroalimentari",2022,"Nutraceutica","Sicilia",4
+"475","PALERMO","LM-6","Neuroscienze",2022,"Bioeconomia","Sicilia",4
+"476","PALERMO","LM-6","Neuroscienze",2022,"Big Data","Sicilia",4
+"477","PALERMO","LM-18","Dati, Algoritmi, e Intelligenza Artificiale",2022,"Deep Learning","Sicilia",4
+"478","PALERMO","LM-22","Ingegneria Chimica",2022,"Economia Circolare","Sicilia",4
+"479","PALERMO","LM-25","Ingegneria dei Sistemi Ciber-Fisici per l'Industria",2022,"Machine Learning","Sicilia",4
+"480","PALERMO","LM-25","Ingegneria dei Sistemi Ciber-Fisici per l'Industria",2022,"Deep Learning","Sicilia",4
+"481","PALERMO","LM-25","Ingegneria dei Sistemi Ciber-Fisici per l'Industria",2022,"Cybersecurity","Sicilia",4
+"482","PALERMO","LM-28","Ingegneria Elettrica",2022,"Mobilità Elettrica","Sicilia",4
+"483","PALERMO","LM-28","Ingegneria Elettrica",2022,"Green","Sicilia",4
+"484","PALERMO","LM-28","Ingegneria Elettrica",2022,"Economia Circolare","Sicilia",4
+"485","PALERMO","LM-29","Ingegneria elettronica e delle telecomunicazioni",2022,"Cybersecurity","Sicilia",4
+"486","PALERMO","LM-29","Ingegneria Elettronica",2022,"Internet Delle Cose","Sicilia",4
+"487","PALERMO","LM-29","Ingegneria Elettronica",2022,"Internet Of Things","Sicilia",4
+"488","PALERMO","LM-30","Ingegneria Energetica e Nucleare",2022,"Green","Sicilia",4
+"489","PALERMO","LM-31","Ingegneria gestionale",2022,"Economia Circolare","Sicilia",4
+"490","PALERMO","LM-31","Ingegneria gestionale",2022,"Digital Transformation","Sicilia",4
+"491","PALERMO","LM-31","Ingegneria gestionale",2022,"Soft Skills","Sicilia",4
+"492","PALERMO","LM-31","Ingegneria Gestionale",2022,"Economia Circolare","Sicilia",4
+"493","PALERMO","LM-31","Ingegneria Gestionale",2022,"Digital Transformation","Sicilia",4
+"494","PALERMO","LM-31","Ingegneria Gestionale",2022,"Soft Skills","Sicilia",4
+"495","PALERMO","LM-32","Ingegneria Informatica",2022,"Big Data","Sicilia",4
+"496","PALERMO","LM-41","Medicina e chirurgia",2022,"Malattie Rare","Sicilia",4
+"497","PALERMO","LM-52","Relazioni internazionali, politiche e commerciali",2022,"Digital Marketing","Sicilia",4
+"498","PALERMO","LM-73","Scienze e Tecnologie Agroingegneristiche e Forestali",2022,"Green","Sicilia",4
+"499","PALERMO","LM-73","Scienze e Tecnologie Agroingegneristiche e Forestali",2022,"Obiettivi Di Sviluppo Sostenibile","Sicilia",4
+"500","PALERMO","LM-73","Scienze e Tecnologie Agroingegneristiche e Forestali",2022,"Sustainable Development Goals","Sicilia",4
+"501","PALERMO","LM-73","Scienze e Tecnologie Agroingegneristiche e Forestali",2022,"Agricoltura Di Precisione","Sicilia",4
+"502","PALERMO","LM-82","Statistica e Data Science",2022,"Data Science","Sicilia",4
+"503","PARMA","L-4","Design Sostenibile per il Sistema Alimentare",2022,"Soft Skills","Emilia-Romagna",4
+"504","PARMA","L-8","Ingegneria Informatica, Elettronica e delle Telecomunicazioni",2022,"Internet Of Things","Emilia-Romagna",4
+"505","PARMA","L-10","Lettere",2022,"Digital Humanities","Emilia-Romagna",4
+"506","PARMA","L-18","Sistema Alimentare: Sostenibilita', Management e Tecnologie",2022,"Bioeconomia","Emilia-Romagna",4
+"507","PARMA","L-18","Economia e Management",2022,"Big Data","Emilia-Romagna",4
+"508","PARMA","L-19","Scienze dell'Educazione e dei Processi Formativi",2022,"Soft Skills","Emilia-Romagna",4
+"509","PARMA","LM-32","Ingegneria Informatica",2022,"Machine Learning","Emilia-Romagna",4
+"510","PARMA","LM-32","Ingegneria Informatica",2022,"Deep Learning","Emilia-Romagna",4
+"511","PARMA","LM-32","Ingegneria Informatica",2022,"Big Data","Emilia-Romagna",4
+"512","PARMA","LM-32","Ingegneria Informatica",2022,"Cybersecurity","Emilia-Romagna",4
+"513","PARMA","LM-32","Ingegneria Informatica",2022,"Cloud","Emilia-Romagna",4
+"514","PARMA","LM-41","Medicina e chirurgia",2022,"Malattie Rare","Emilia-Romagna",4
+"515","PARMA","LM-77","Trade e Consumer Marketing",2022,"Data Science","Emilia-Romagna",4
+"516","PAVIA","L-10","Lettere",2022,"Digital Humanities","Lombardia",13
+"517","PAVIA","L-20","Comunicazione, innovazione, multimedialità",2022,"Big Data","Lombardia",13
+"518","PAVIA","L-20","Comunicazione, innovazione, multimedialità",2022,"Diritto Della Proprietà Intellettuale","Lombardia",13
+"519","PAVIA","L-31","Intelligenza artificiale",2022,"Artificial Intelligence","Lombardia",13
+"520","PAVIA","LM-6","Biologia molecolare e genetica",2022,"Big Data","Lombardia",13
+"521","PAVIA","LM-9","Benessere nel ciclo di vita e invecchiamento in salute",2022,"Big Data","Lombardia",13
+"522","PAVIA","LM-16","Finance - Finanza",2022,"Machine Learning","Lombardia",13
+"523","PAVIA","LM-16","Finance - Finanza",2022,"Python","Lombardia",13
+"524","PAVIA","LM-28","Ingegneria elettrica",2022,"Mobilità Elettrica","Lombardia",13
+"525","PAVIA","LM-56","Economics, Development and Innovation - Economia, Sviluppo e Innovazione",2022,"Data Science","Lombardia",13
+"526","PAVIA","LM-59","Comunicazione Digitale",2022,"Cybersecurity","Lombardia",13
+"527","PAVIA","LM-59","Comunicazione Digitale",2022,"Machine Learning","Lombardia",13
+"528","PAVIA","LM-59","Comunicazione Digitale",2022,"Digital Marketing","Lombardia",13
+"529","PAVIA","LM-69","Sostenibilità agro-alimentare",2022,"Sustainability","Lombardia",13
+"530","PAVIA","LM-77","International business and entrepreneurship - Management internazionale e imprenditorialità",2022,"Soft Skills","Lombardia",13
+"531","PAVIA","LM-84","Storia globale delle civiltà e dei territori",2022,"Digital Humanities","Lombardia",13
+"532","PERUGIA","L-P01","Tecniche digitali per la gestione sostenibile delle costruzioni, dell’ambiente e del territorio",2022,"Rilevamento Topografico","Umbria",2
+"533","PERUGIA","LM-32","Ingegneria Informatica e Robotica",2022,"Machine Learning","Umbria",2
+"534","PERUGIA","LM-32","Ingegneria Informatica e Robotica",2022,"Data Science","Umbria",2
+"535","PERUGIA","LM-32","Ingegneria Informatica e Robotica",2022,"Big Data","Umbria",2
+"536","PERUGIA","LM-32","Ingegneria Informatica e Robotica",2022,"Business Analytics","Umbria",2
+"537","PERUGIA","LM-35","INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",2022,"Economia Circolare","Umbria",2
+"538","PERUGIA","LM-53","INGEGNERIA DEI MATERIALI E DEI PROCESSI SOSTENIBILI",2022,"Green","Umbria",2
+"539","PERUGIA","LM-69","AGRICOLTURA SOSTENIBILE",2022,"Bioeconomia","Umbria",2
+"540","PERUGIA","LM-69","AGRICOLTURA SOSTENIBILE",2022,"Economia Circolare","Umbria",2
+"541","Stranieri di PERUGIA","L-10","Digital Humanities per l'italiano",2022,"Digital Humanities","Umbria",2
+"542","Stranieri di PERUGIA","L-37","Studi Internazionali per la Sostenibilita' e la Sicurezza Sociale",2022,"Soft Skills","Umbria",2
+"543","Stranieri di PERUGIA","L-37","Studi Internazionali per la Sostenibilita' e la Sicurezza Sociale",2022,"Green","Umbria",2
+"544","PIEMONTE ORIENTALE","L-27","Chimica verde",2022,"Economia Circolare","Piemonte",3
+"545","PIEMONTE ORIENTALE","LM-6","Alimenti Salute e Ambiente",2022,"Bioeconomia","Piemonte",3
+"546","PIEMONTE ORIENTALE","LM-9","BIOTECNOLOGIE FARMACEUTICHE",2022,"Soft Skills","Piemonte",3
+"547","PIEMONTE ORIENTALE","LM-18","Intelligenza Artificiale e Innovazione Digitale",2022,"Machine Learning","Piemonte",3
+"548","PIEMONTE ORIENTALE","LM-18","Intelligenza Artificiale e Innovazione Digitale",2022,"Deep Learning","Piemonte",3
+"549","PIEMONTE ORIENTALE","LM-18","Intelligenza Artificiale e Innovazione Digitale",2022,"Big Data","Piemonte",3
+"550","PIEMONTE ORIENTALE","LM-18","Intelligenza Artificiale e Innovazione Digitale",2022,"Cybersecurity","Piemonte",3
+"551","PIEMONTE ORIENTALE","LM-77","MANAGEMENT E FINANZA",2022,"Big Data","Piemonte",3
+"552","PISA","L-25","SCIENZE AGRARIE",2022,"Soft Skills","Toscana",4
+"553","PISA","LM-9","Biotecnologie e Intelligenza Artificiale Applicata per la Salute",2022,"Artificial Intelligence","Toscana",4
+"554","PISA","LM-9","Biotecnologie e Intelligenza Artificiale Applicata per la Salute",2022,"Big Data","Toscana",4
+"555","PISA","LM-18","Scienza dei Dati e Informatica per l'Azienda",2022,"Data Science","Toscana",4
+"556","PISA","LM-18","Scienza dei Dati e Informatica per l'Azienda",2022,"Analytics","Toscana",4
+"557","PISA","LM-18","INFORMATICA",2022,"Deep Learning","Toscana",4
+"558","PISA","LM-18","INFORMATICA",2022,"Big Data","Toscana",4
+"559","PISA","LM-29","Ingegneria Elettronica",2022,"Internet Of Things","Toscana",4
+"560","PISA","LM-32","Intelligenza Artificiale e Ingegneria dei Dati",2022,"Artificial Intelligence","Toscana",4
+"561","PISA","LM-32","Intelligenza Artificiale e Ingegneria dei Dati",2022,"Data Science","Toscana",4
+"562","PISA","LM-32","Intelligenza Artificiale e Ingegneria dei Dati",2022,"Machine Learning","Toscana",4
+"563","PISA","LM-32","Intelligenza Artificiale e Ingegneria dei Dati",2022,"Text Mining","Toscana",4
+"564","PISA","LM-32","Intelligenza Artificiale e Ingegneria dei Dati",2022,"Data Analytics","Toscana",4
+"565","PISA","LM-32","Ingegneria Informatica",2022,"Internet Delle Cose","Toscana",4
+"566","PISA","LM-33","TECNOLOGIA E PRODUZIONE DELLA CARTA E DEL CARTONE",2022,"Economia Circolare","Toscana",4
+"567","PISA","LM-33","TECNOLOGIA E PRODUZIONE DELLA CARTA E DEL CARTONE",2022,"Soft Skills","Toscana",4
+"568","PISA","LM-61","SCIENZE DELLA NUTRIZIONE UMANA",2022,"Nutraceutica","Toscana",4
+"569","PISA","LM-66","SICUREZZA INFORMATICA",2022,"Cybersecurity","Toscana",4
+"570","PISA","LM-69","Sistemi Agricoli Sostenibili",2022,"Bioeconomia","Toscana",4
+"571","PISA","LM-69","Sistemi Agricoli Sostenibili",2022,"Agricoltura Di Precisione","Toscana",4
+"572","PISA","LM-77","MANAGEMENT E CONTROLLO DEI PROCESSI LOGISTICI",2022,"Cybersecurity","Toscana",4
+"573","PISA","LM-81","Scienze per la Pace: trasformazione dei conflitti e cooperazione allo sviluppo",2022,"Giustizia Sociale","Toscana",4
+"574","Politecnica delle MARCHE","L-8","INGEGNERIA DELL’INFORMAZIONE PER VIDEOGAME E REALTÀ VIRTUALE",2022,"Internet Delle Cose","Marche",4
+"575","Politecnica delle MARCHE","L-25","SISTEMI AGRICOLI INNOVATIVI",2022,"Agricoltura Di Precisione","Marche",4
+"576","Politecnica delle MARCHE","L-25","SISTEMI AGRICOLI INNOVATIVI",2022,"Economia Circolare","Marche",4
+"577","Politecnica delle MARCHE","L-33","DIGITAL ECONOMICS AND BUSINESS",2022,"Digital Transformation","Marche",4
+"578","Politecnica delle MARCHE","L-33","DIGITAL ECONOMICS AND BUSINESS",2022,"Machine Learning","Marche",4
+"579","Politecnica delle MARCHE","L-33","DIGITAL ECONOMICS AND BUSINESS",2022,"Data Analytics","Marche",4
+"580","Politecnica delle MARCHE","LM-6","BIOLOGIA MOLECOLARE E APPLICATA",2022,"Big Data","Marche",4
+"581","Politecnica delle MARCHE","LM-21","Biomedical Engineering",2022,"Industrial Engineering","Marche",4
+"582","Politecnica delle MARCHE","LM-21","Biomedical Engineering",2022,"Clinical Practice","Marche",4
+"583","Politecnica delle MARCHE","LM-30","Ingegneria Industriale Sostenibile",2022,"Green","Marche",4
+"584","Politecnica delle MARCHE","LM-30","Ingegneria Industriale Sostenibile",2022,"Industrial Engineering","Marche",4
+"585","Politecnica delle MARCHE","LM-30","Ingegneria Industriale Sostenibile",2022,"Cybersecurity","Marche",4
+"586","Politecnica delle MARCHE","LM-30","Ingegneria Industriale Sostenibile",2022,"Economia Circolare","Marche",4
+"587","Politecnica delle MARCHE","LM-30","Ingegneria Industriale Sostenibile",2022,"Soft Skills","Marche",4
+"588","Politecnica delle MARCHE","LM-31","Ingegneria Gestionale",2022,"Soft Skills","Marche",4
+"589","Politecnica delle MARCHE","LM-31","Ingegneria Gestionale",2022,"Data Science","Marche",4
+"590","Politecnica delle MARCHE","LM-32","INGEGNERIA INFORMATICA E DELL'AUTOMAZIONE",2022,"Machine Learning","Marche",4
+"591","Politecnica delle MARCHE","LM-33","Ingegneria Meccanica",2022,"Soft Skills","Marche",4
+"592","Politecnica delle MARCHE","LM-41","Medicina e chirurgia",2022,"Big Data","Marche",4
+"593","Politecnica delle MARCHE","LM-41","Medicina e chirurgia",2022,"Artificial Intelligence","Marche",4
+"594","Politecnica delle MARCHE","LM-41","Medicina e chirurgia",2022,"Clinical Practice","Marche",4
+"595","Politecnica delle MARCHE","LM-41","Medicina e chirurgia",2022,"Machine Learning","Marche",4
+"596","Politecnica delle MARCHE","LM-56","DATA SCIENCE PER L'ECONOMIA E LE IMPRESE",2022,"Internet Of Things","Marche",4
+"597","Politecnica delle MARCHE","LM-56","DATA SCIENCE PER L'ECONOMIA E LE IMPRESE",2022,"Big Data","Marche",4
+"598","Politecnica delle MARCHE","LM-56","DATA SCIENCE PER L'ECONOMIA E LE IMPRESE",2022,"Analisi Delle Serie Storiche","Marche",4
+"599","Politecnica delle MARCHE","LM-56","DATA SCIENCE PER L'ECONOMIA E LE IMPRESE",2022,"Data Management","Marche",4
+"600","Politecnica delle MARCHE","LM-56","DATA SCIENCE PER L'ECONOMIA E LE IMPRESE",2022,"Scalabilità","Marche",4
+"601","Politecnica delle MARCHE","LM-56","DATA SCIENCE PER L'ECONOMIA E LE IMPRESE",2022,"Cloud","Marche",4
+"602","Politecnica delle MARCHE","LM-56","DATA SCIENCE PER L'ECONOMIA E LE IMPRESE",2022,"Analytics","Marche",4
+"603","Politecnica delle MARCHE","LM-56","DATA SCIENCE PER L'ECONOMIA E LE IMPRESE",2022,"Data Analytics","Marche",4
+"604","Politecnica delle MARCHE","LM-70","Food and Beverage Innovation and Management",2022,"Sustainability","Marche",4
+"605","Politecnica delle MARCHE","LM-77","MANAGEMENT DELLA SOSTENIBILITA' ED ECONOMIA CIRCOLARE",2022,"Economia Circolare","Marche",4
+"606","Mediterranea di REGGIO CALABRIA","L-8","Ingegneria informatica, elettronica e delle telecomunicazioni",2022,"Cybersecurity","Calabria",4
+"607","Mediterranea di REGGIO CALABRIA","L-P01","Tecniche per l'edilizia e il territorio",2022,"Building Information Modeling","Calabria",4
+"608","Mediterranea di REGGIO CALABRIA","LM-27","Ingegneria Informatica e dei sistemi per le Telecomunicazioni",2022,"Internet Of Things","Calabria",4
+"609","Mediterranea di REGGIO CALABRIA","LM-30","Ingegneria per la gestione sostenibile dell'ambiente e dell'energia",2022,"Economia Circolare","Calabria",4
+"610","ROMA ""La Sapienza""","L-9","Ingegneria dell'Energia Elettrica",2022,"Mobilità Elettrica","Lazio",11
+"611","ROMA ""La Sapienza""","L-23","Ingegneria dell’Innovazione Tecnologica per l’Edilizia",2022,"Economia Circolare","Lazio",11
+"612","ROMA ""La Sapienza""","L-29","Biologia molecolare, Chimica farmaceutica e Informatica per applicazioni farmaceutiche",2022,"Machine Learning","Lazio",11
+"613","ROMA ""La Sapienza""","L-29","Scienze Farmaceutiche Applicate",2022,"Nutraceutica","Lazio",11
+"614","ROMA ""La Sapienza""","L-31","Informatica Applicata e Intelligenza Artificiale",2022,"Artificial Intelligence","Lazio",11
+"615","ROMA ""La Sapienza""","L-31","Informatica Applicata e Intelligenza Artificiale",2022,"Machine Learning","Lazio",11
+"616","ROMA ""La Sapienza""","L-31","Informatica Applicata e Intelligenza Artificiale",2022,"Big Data","Lazio",11
+"617","ROMA ""La Sapienza""","L-35","Scienze matematiche per l’intelligenza artificiale",2022,"Machine Learning","Lazio",11
+"618","ROMA ""La Sapienza""","L-35","Scienze matematiche per l’intelligenza artificiale",2022,"Soft Skills","Lazio",11
+"619","ROMA ""La Sapienza""","L-41","Statistica gestionale",2022,"Data Science","Lazio",11
+"620","ROMA ""La Sapienza""","L-P01","Professioni tecniche per l'edilizia e il territorio",2022,"Rilevamento Topografico","Lazio",11
+"621","ROMA ""La Sapienza""","LM-12","Product and Service Design",2022,"Service Design","Lazio",11
+"622","ROMA ""La Sapienza""","LM-27","Ingegneria delle Comunicazioni",2022,"Servizi E Applicazioni","Lazio",11
+"623","ROMA ""La Sapienza""","LM-28","Ingegneria dell'Energia Elettrica",2022,"Mobilità Elettrica","Lazio",11
+"624","ROMA ""La Sapienza""","LM-35","Ingegneria dell'Ambiente per lo Sviluppo Sostenibile",2022,"Economia Circolare","Lazio",11
+"625","ROMA ""La Sapienza""","LM-35","Ingegneria per l'Ambiente e il Territorio",2022,"Big Data","Lazio",11
+"626","ROMA ""La Sapienza""","LM-40","Matematica applicata",2022,"Machine Learning","Lazio",11
+"627","ROMA ""La Sapienza""","LM-51","Psicologia giuridica, forense e criminologica",2022,"Giustizia Riparativa","Lazio",11
+"628","ROMA ""La Sapienza""","LM-59","Organizzazione e marketing per la comunicazione d'impresa",2022,"Flipped Classroom","Lazio",11
+"629","ROMA ""La Sapienza""","LM-66","Cybersecurity",2022,"Cybersecurity","Lazio",11
+"630","ROMA ""La Sapienza""","LM-82","Scienze statistiche",2022,"Data Science","Lazio",11
+"631","ROMA ""La Sapienza""","LM-82","Scienze statistiche",2022,"Big Data","Lazio",11
+"632","ROMA ""La Sapienza""","LM-88","Sociologia per la sostenibilità e analisi dei processi globali",2022,"Data Science","Lazio",11
+"633","ROMA ""La Sapienza""","LM-88","Sociologia per la sostenibilità e analisi dei processi globali",2022,"Soft Skills","Lazio",11
+"634","ROMA ""La Sapienza""","LM-91","Data Science",2022,"Data Science","Lazio",11
+"635","ROMA ""La Sapienza""","LM-91","Data Science",2022,"Big Data","Lazio",11
+"636","ROMA ""La Sapienza""","LM-91","Data Science",2022,"Cloud Computing","Lazio",11
+"637","ROMA ""La Sapienza""","LM/GASTR","Management delle scienze gastronomiche per il benessere",2022,"Soft Skills","Lazio",11
+"638","ROMA ""Tor Vergata""","LM-8","Biotechnology - Biotecnologie",2022,"Data Management","Lazio",11
+"639","ROMA ""Tor Vergata""","LM-30","Ingegneria Energetica",2022,"Economia Circolare","Lazio",11
+"640","ROMA ""Tor Vergata""","LM-90","European Economy and Business Law",2022,"Soft Skills","Lazio",11
+"641","ROMA TRE","L-9","Ingegneria delle Tecnologie Aeronautiche e del Trasporto Aereo",2022,"Green","Lazio",11
+"642","ROMA TRE","L-9","Ingegneria delle Tecnologie Aeronautiche e del Trasporto Aereo",2022,"Machine Learning","Lazio",11
+"643","ROMA TRE","L-14","Servizi giuridici per la sicurezza territoriale e informatica",2022,"Cloud Computing","Lazio",11
+"644","ROMA TRE","L-14","Servizi giuridici per la sicurezza territoriale e informatica",2022,"Internet Of Things","Lazio",11
+"645","ROMA TRE","L-33","Economia e Big Data",2022,"Big Data","Lazio",11
+"646","ROMA TRE","L-37","Politiche, cooperazione e sviluppo",2022,"Posture","Lazio",11
+"647","ROMA TRE","LM-32","Ingegneria informatica",2022,"Big Data","Lazio",11
+"648","ROMA TRE","LM-32","Ingegneria informatica",2022,"Cybersecurity","Lazio",11
+"649","ROMA TRE","LM-52","Politiche per la Sicurezza Globale: Ambiente, Energia e Conflitti",2022,"Soft Skills","Lazio",11
+"650","ROMA TRE","LM-52","Politiche per la Sicurezza Globale: Ambiente, Energia e Conflitti",2022,"Sustainability","Lazio",11
+"651","ROMA TRE","LM-52","Politiche per la Sicurezza Globale: Ambiente, Energia e Conflitti",2022,"Ethics","Lazio",11
+"652","ROMA TRE","LM-77","Economia e management",2022,"Big Data","Lazio",11
+"653","ROMA TRE","LM/SC-GIUR","Scienze giuridiche per le nuove tecnologie",2022,"Diritto Della Proprietà Intellettuale","Lazio",11
+"654","ROMA TRE","LM/SC-GIUR","Scienze giuridiche per le nuove tecnologie",2022,"Giustizia Sociale","Lazio",11
+"655","Luiss Guido Carli","L-18","MANAGEMENT E COMPUTER SCIENCE",2022,"Data Science","Lazio",11
+"656","Luiss Guido Carli","L-18","MANAGEMENT E COMPUTER SCIENCE",2022,"Cybersecurity","Lazio",11
+"657","Luiss Guido Carli","L-18","AMMINISTRAZIONE AZIENDALE",2022,"Soft Skills","Lazio",11
+"658","Luiss Guido Carli","L-33","ECONOMIA E BUSINESS",2022,"Soft Skills","Lazio",11
+"659","Luiss Guido Carli","LM-77","MANAGEMENT STRATEGICO",2022,"Blockchain","Lazio",11
+"660","Luiss Guido Carli","LM-77","MANAGEMENT STRATEGICO",2022,"Soft Skills","Lazio",11
+"661","Luiss Guido Carli","LM-77","MANAGEMENT E POLITICA GLOBALE",2022,"Big Data","Lazio",11
+"662","Luiss Guido Carli","LM-77","MANAGEMENT E POLITICA GLOBALE",2022,"Internet Of Things","Lazio",11
+"663","Luiss Guido Carli","LM-91","DATA SCIENCE E MANAGEMENT",2022,"Data Science","Lazio",11
+"664","Luiss Guido Carli","LM-91","DATA SCIENCE E MANAGEMENT",2022,"Data Analytics","Lazio",11
+"665","Luiss Guido Carli","LM-91","DATA SCIENCE E MANAGEMENT",2022,"Machine Learning","Lazio",11
+"666","Luiss Guido Carli","LM/SC-GIUR","DIRITTO, INNOVAZIONE DIGITALE E SOSTENIBILITA'",2022,"Soft Skills","Lazio",11
+"667","Luiss Guido Carli","LM/SC-GIUR","DIRITTO, INNOVAZIONE DIGITALE E SOSTENIBILITA'",2022,"Internet Of Things","Lazio",11
+"668","Luiss Guido Carli","LM/SC-GIUR","DIRITTO, INNOVAZIONE DIGITALE E SOSTENIBILITA'",2022,"Machine Learning","Lazio",11
+"669","Luiss Guido Carli","LM/SC-GIUR","DIRITTO, INNOVAZIONE DIGITALE E SOSTENIBILITA'",2022,"Blockchain","Lazio",11
+"670","Luiss Guido Carli","LM/SC-GIUR","DIRITTO, INNOVAZIONE DIGITALE E SOSTENIBILITA'",2022,"Big Data","Lazio",11
+"671","Luiss Guido Carli","LM/SC-GIUR","DIRITTO, INNOVAZIONE DIGITALE E SOSTENIBILITA'",2022,"Sustainable Development Goals","Lazio",11
+"672","Luiss Guido Carli","LM/SC-GIUR","DIRITTO, INNOVAZIONE DIGITALE E SOSTENIBILITA'",2022,"Economia Circolare","Lazio",11
+"673","Libera Univ. ""Maria SS.Assunta""-LUMSA - ROMA","L-31","Tecniche informatiche per la gestione dei dati",2022,"Machine Learning","Lazio",11
+"674","Libera Univ. ""Maria SS.Assunta""-LUMSA - ROMA","L-31","Tecniche informatiche per la gestione dei dati",2022,"Analytics","Lazio",11
+"675","Libera Univ. ""Maria SS.Assunta""-LUMSA - ROMA","L-36","Scienze politiche e internazionali",2022,"Soft Skills","Lazio",11
+"676","Libera Univ. ""Maria SS.Assunta""-LUMSA - ROMA","LM-52","Relazioni internazionali",2022,"Soft Skills","Lazio",11
+"677","Libera Univ. ""Maria SS.Assunta""-LUMSA - ROMA","LM-62","Politiche, Amministrazioni e Innovazione",2022,"Big Data","Lazio",11
+"678","Libera Univ. ""Maria SS.Assunta""-LUMSA - ROMA","LM-62","Politiche, Amministrazioni e Innovazione",2022,"Soft Skills","Lazio",11
+"679","Libera Univ. ""Maria SS.Assunta""-LUMSA - ROMA","LM-77","Economia e management",2022,"Soft Skills","Lazio",11
+"680","Libera Univ. ""Maria SS.Assunta""-LUMSA - ROMA","LM-91","Comunicazione, innovazione ed experience design",2022,"Service Design","Lazio",11
+"681","SALENTO","L-9","INGEGNERIA PER L'INDUSTRIA SOSTENIBILE",2022,"Economia Circolare","Puglia",7
+"682","SALENTO","L-18","Management Digitale",2022,"Big Data","Puglia",7
+"683","SALENTO","L-32","Sviluppo sostenibile e cambiamenti climatici",2022,"Green","Puglia",7
+"684","SALENTO","L-32","Sviluppo sostenibile e cambiamenti climatici",2022,"Economia Circolare","Puglia",7
+"685","SALENTO","LMG/01","GIURISPRUDENZA",2022,"Green","Puglia",7
+"686","SALENTO","LM-6","Coastal and Marine Biology and Ecology (Biologia ed Ecologia Costiera e Marina)",2022,"Priority","Puglia",7
+"687","SALENTO","LM-31","MANAGEMENT ENGINEERING - INGEGNERIA GESTIONALE",2022,"Business Analytics","Puglia",7
+"688","SALENTO","LM-31","MANAGEMENT ENGINEERING - INGEGNERIA GESTIONALE",2022,"Data Management","Puglia",7
+"689","SALENTO","LM-32","INGEGNERIA INFORMATICA",2022,"Internet Of Things","Puglia",7
+"690","SALENTO","LM-40","Matematica",2022,"Big Data","Puglia",7
+"691","SALENTO","LM-40","Matematica",2022,"Machine Learning","Puglia",7
+"692","SALENTO","LM-41","Medicina e chirurgia",2022,"Big Data","Puglia",7
+"693","SALENTO","LM-41","Medicina e chirurgia",2022,"Malattie Rare","Puglia",7
+"694","SALENTO","LM-41","Medicina e chirurgia",2022,"Machine Learning","Puglia",7
+"695","SALENTO","LM-75","SCIENZE AMBIENTALI",2022,"Green","Puglia",7
+"696","SALENTO","LM-81","Scienze per la Cooperazione Internazionale",2022,"Sustainable Development Goals","Puglia",7
+"697","SALENTO","LM-53.","MATERIALS ENGINEERING AND NANOTECHNOLOGY - INGEGNERIA DEI MATERIALI E NANOTECNOLOGIE",2022,"Sustainability","Puglia",7
+"698","SALERNO","L-29","Tecniche Erboristiche",2022,"Nutraceutica","Puglia",7
+"699","SALERNO","L-29","Farmaceutica e Nutraceutica Animale",2022,"Nutraceutica","Puglia",7
+"700","SALERNO","L-41","Statistica per i Big Data",2022,"Big Data","Puglia",7
+"701","SALERNO","L-41","Statistica per i Big Data",2022,"Data Science","Puglia",7
+"702","SALERNO","LM-29","Ingegneria Elettronica",2022,"Internet Delle Cose","Puglia",7
+"703","SALERNO","LM-32","Ingegneria dell'Informazione per la Medicina Digitale",2022,"Machine Learning","Puglia",7
+"704","SALERNO","LM-32","Ingegneria dell'Informazione per la Medicina Digitale",2022,"Data Analytics","Puglia",7
+"705","SALERNO","LM-32","Ingegneria informatica",2022,"Machine Learning","Puglia",7
+"706","SALERNO","LM-33","Ingegneria per l'Industria Intelligente",2022,"Big Data","Puglia",7
+"707","SALERNO","LM-33","Ingegneria per l'Industria Intelligente",2022,"Artificial Intelligence","Puglia",7
+"708","SALERNO","LM-33","Ingegneria per l'Industria Intelligente",2022,"Internet Of Things","Puglia",7
+"709","SALERNO","LM-33","Ingegneria per l'Industria Intelligente",2022,"Machine Learning","Puglia",7
+"710","SALERNO","LM-69","Innovazioni per le produzioni agrarie mediterranee",2022,"Bioeconomia","Puglia",7
+"711","SALERNO","LM Data","Data Science e Gestione dell'Innovazione",2022,"Big Data","Puglia",7
+"712","SALERNO","LM Data","Data Science e Gestione dell'Innovazione",2022,"Data Science","Puglia",7
+"713","SALERNO","LM Data","Data Science e Gestione dell'Innovazione",2022,"Artificial Intelligence","Puglia",7
+"714","SALERNO","LM Data","Data Science e Gestione dell'Innovazione",2022,"Analytics","Puglia",7
+"715","SASSARI","LM-6","Biologia",2022,"Soft Skills","Sardegna",2
+"716","SASSARI","LM-61","Scienze dell'Alimentazione, Salute e Benessere dell'Uomo",2022,"Nutraceutica","Sardegna",2
+"717","SASSARI","LM-77","Management dell'innovazione per il turismo sostenibile",2022,"Soft Skills","Sardegna",2
+"718","SASSARI","LM-77","Management dell'innovazione per il turismo sostenibile",2022,"Digital Marketing","Sardegna",2
+"719","SIENA","L-8","Ingegneria gestionale",2022,"Economia Circolare","Toscana",4
+"720","SIENA","L-18","Economia e Management",2022,"Soft Skills","Toscana",4
+"721","SIENA","L-18","Economia e commercio",2022,"Soft Skills","Toscana",4
+"722","SIENA","L-27","Scienze chimiche",2022,"Soft Skills","Toscana",4
+"723","SIENA","L-P02","Agribusiness",2022,"Soft Skills","Toscana",4
+"724","SIENA","LM-8","Biotecnologie Industriali Farmaceutiche Sostenibili",2022,"Big Data","Toscana",4
+"725","SIENA","LM-8","Biotecnologie Industriali Farmaceutiche Sostenibili",2022,"Economia Circolare","Toscana",4
+"726","SIENA","LM-8","Biotecnologie Industriali Farmaceutiche Sostenibili",2022,"Bioeconomia","Toscana",4
+"727","SIENA","LM-8","Biotecnologie Industriali Farmaceutiche Sostenibili",2022,"Soft Skills","Toscana",4
+"728","SIENA","LM-8","Biotecnologie Industriali Farmaceutiche Sostenibili",2022,"Ethics","Toscana",4
+"729","SIENA","LM-8","Biotecnologie Industriali Farmaceutiche Sostenibili",2022,"Digital Transformation","Toscana",4
+"730","SIENA","LM-9","Biotecnologie della Riproduzione Umana",2022,"Soft Skills","Toscana",4
+"731","SIENA","LM-13","Farmacia",2022,"Nutraceutica","Toscana",4
+"732","SIENA","LM-32","Ingegneria dell'Intelligenza Artificiale e dell'Automazione",2022,"Artificial Intelligence","Toscana",4
+"733","SIENA","LM-46","Odontoiatria e protesi dentaria",2022,"Soft Skills","Toscana",4
+"734","SIENA","LM-54","Chimica",2022,"Soft Skills","Toscana",4
+"735","SIENA","LM-77","Management e Governance",2022,"Soft Skills","Toscana",4
+"736","SIENA","LM-77","Ragioneria e gestione aziendale internazionale",2022,"Soft Skills","Toscana",4
+"737","Stranieri di SIENA","L-10","Lingua, letteratura, arti italiane in prospettiva internazionale",2022,"Digital Humanities","Toscana",4
+"738","TERAMO","L-36","Scienze Politiche",2022,"Soft Skills","Abruzzo",3
+"739","TERAMO","L-P02","Intensificazione sostenibile delle produzioni ortofrutticole di qualità",2022,"Agricoltura Di Precisione","Abruzzo",3
+"740","TERAMO","LM-9","Biotecnologie avanzate",2022,"Big Data","Abruzzo",3
+"741","TORINO","L-18","MANAGEMENT DELL'INFORMAZIONE E DELLA COMUNICAZIONE AZIENDALE",2022,"Soft Skills","Piemonte",3
+"742","TORINO","L-33","Economia e Statistica per le Organizzazioni",2022,"Green","Piemonte",3
+"743","TORINO","L-33","Economia e Statistica per le Organizzazioni",2022,"Soft Skills","Piemonte",3
+"744","TORINO","LM-5","SCIENZE DEL LIBRO, DEL DOCUMENTO, DEL PATRIMONIO CULTURALE",2022,"Digital Humanities","Piemonte",3
+"745","TORINO","LM-40","STOCHASTICS AND DATA SCIENCE",2022,"Data Science","Piemonte",3
+"746","TORINO","LM-40","STOCHASTICS AND DATA SCIENCE",2022,"Big Data","Piemonte",3
+"747","TORINO","LM-40","STOCHASTICS AND DATA SCIENCE",2022,"Machine Learning","Piemonte",3
+"748","TORINO","LM-43","Tecnologie del Linguaggio e Umanistica Digitale",2022,"Digital Humanities","Piemonte",3
+"749","TORINO","LM-53","Scienza dei Materiali",2022,"Machine Learning","Piemonte",3
+"750","TORINO","LM-56","ECONOMIA DELL'AMBIENTE, DELLA CULTURA E DEL TERRITORIO",2022,"Economia Circolare","Piemonte",3
+"751","TORINO","LM-56","ECONOMIA DELL'AMBIENTE, DELLA CULTURA E DEL TERRITORIO",2022,"Green Economy","Piemonte",3
+"752","TORINO","LM-69","Scienze agrarie",2022,"Agricoltura Di Precisione","Piemonte",3
+"753","TORINO","LM-77","AMMINISTRAZIONE AZIENDALE",2022,"Soft Skills","Piemonte",3
+"754","TORINO","LM-77","AMMINISTRAZIONE AZIENDALE",2022,"Big Data","Piemonte",3
+"755","TORINO","LM-77","AMMINISTRAZIONE E GESTIONE DIGITALE DELLE AZIENDE",2022,"Digital Transformation","Piemonte",3
+"756","TORINO","LM-80","Geografia e scienze territoriali",2022,"Data Science","Piemonte",3
+"757","Politecnico di TORINO","L-7","Ingegneria civile e ambientale",2022,"Economia Circolare","Piemonte",3
+"758","Politecnico di TORINO","L-7","Ingegneria per l'ambiente e il territorio",2022,"Economia Circolare","Piemonte",3
+"759","Politecnico di TORINO","L-9","Ingegneria dell'autoveicolo",2022,"Motori Elettrici","Piemonte",3
+"760","Politecnico di TORINO","L-9","Ingegneria dei materiali",2022,"Motori Elettrici","Piemonte",3
+"761","Politecnico di TORINO","L-9","Ingegneria dei materiali",2022,"Soft Skills","Piemonte",3
+"762","Politecnico di TORINO","LM-4","Architettura Costruzione Città",2022,"Sustainable Development Goals","Piemonte",3
+"763","Politecnico di TORINO","LM-4","Architettura Costruzione Città",2022,"Building Information Modeling","Piemonte",3
+"764","Politecnico di TORINO","LM-25","Mechatronic Engineering (Ingegneria meccatronica)",2022,"Mobilità Elettrica","Piemonte",3
+"765","Politecnico di TORINO","LM-29","Ingegneria elettronica",2022,"Soft Skills","Piemonte",3
+"766","Politecnico di TORINO","LM-29","Nanotechnologies for ICTs (Nanotecnologie per le ICT)",2022,"Internet Of Things","Piemonte",3
+"767","Politecnico di TORINO","LM-31","Ingegneria gestionale",2022,"Data Analytics","Piemonte",3
+"768","Politecnico di TORINO","LM-31","Ingegneria gestionale",2022,"Sustainability","Piemonte",3
+"769","Politecnico di TORINO","LM-32","Data Science e ingegneria",2022,"Data Science","Piemonte",3
+"770","Politecnico di TORINO","LM-32","Data Science e ingegneria",2022,"Machine Learning","Piemonte",3
+"771","Politecnico di TORINO","LM-32","Ingegneria informatica",2022,"Cloud","Piemonte",3
+"772","Politecnico di TORINO","LM-32","Ingegneria informatica",2022,"Data Analytics","Piemonte",3
+"773","Politecnico di TORINO","LM-32","Ingegneria informatica",2022,"Data Science","Piemonte",3
+"774","Politecnico di TORINO","LM-32","Ingegneria informatica",2022,"Cloud Computing","Piemonte",3
+"775","Politecnico di TORINO","LM-32","Ingegneria informatica",2022,"Cybersecurity","Piemonte",3
+"776","Politecnico di TORINO","LM-32","Ingegneria informatica",2022,"Machine Learning","Piemonte",3
+"777","Politecnico di TORINO","LM-32","Ingegneria informatica",2022,"Deep Learning","Piemonte",3
+"778","Politecnico di TORINO","LM-32","Ingegneria informatica",2022,"Big Data","Piemonte",3
+"779","Politecnico di TORINO","LM-48","Pianificazione territoriale, urbanistica e paesaggistico-ambientale",2022,"Sustainable Development Goals","Piemonte",3
+"780","Politecnico di TORINO","LM-91","Competenze digitali per transizioni sociali sostenibili",2022,"Big Data","Piemonte",3
+"781","Politecnico di TORINO","LM-91","Competenze digitali per transizioni sociali sostenibili",2022,"Machine Learning","Piemonte",3
+"782","Politecnico di TORINO","LM-91","Competenze digitali per transizioni sociali sostenibili",2022,"Cloud Computing","Piemonte",3
+"783","Politecnico di TORINO","LM-91","Competenze digitali per transizioni sociali sostenibili",2022,"Internet Of Things","Piemonte",3
+"784","Politecnico di TORINO","LM-91","Competenze digitali per transizioni sociali sostenibili",2022,"Data Analytics","Piemonte",3
+"785","Politecnico di TORINO","LM-53.","Ingegneria dei materiali per l'Industria 4.0",2022,"Economia Circolare","Piemonte",3
+"786","Politecnico di TORINO","LM-53.","Ingegneria dei materiali per l'Industria 4.0",2022,"Soft Skills","Piemonte",3
+"787","TRENTO","L-8","Ingegneria Informatica, delle Comunicazioni ed Elettronica",2022,"Data Science","Trentino-Alto Adige",2
+"788","TRENTO","LM-8","Biologia Quantitativa e Computazionale",2022,"Machine Learning","Trentino-Alto Adige",2
+"789","TRENTO","LM-32","Sistemi di Intelligenza Artificiale",2022,"Artificial Intelligence","Trentino-Alto Adige",2
+"790","TRENTO","LM-32","Sistemi di Intelligenza Artificiale",2022,"Machine Learning","Trentino-Alto Adige",2
+"791","TRENTO","LM-62","Studi globali e locali",2022,"Soft Skills","Trentino-Alto Adige",2
+"792","TRENTO","LM-91","DATA SCIENCE",2022,"Data Science","Trentino-Alto Adige",2
+"793","TRENTO","LM-53.","Ingegneria dei Materiali",2022,"Economia Circolare","Trentino-Alto Adige",2
+"794","TRIESTE","L-31","Intelligenza artificiale e data analytics",2022,"Data Analytics","Friuli-Venezia Giulia",2
+"795","TRIESTE","LM-44","DATA SCIENCE AND SCIENTIFIC COMPUTING",2022,"Internet Of Things","Friuli-Venezia Giulia",2
+"796","TRIESTE","LM-44","DATA SCIENCE AND SCIENTIFIC COMPUTING",2022,"Data Science","Friuli-Venezia Giulia",2
+"797","TRIESTE","LM-44","DATA SCIENCE AND SCIENTIFIC COMPUTING",2022,"Machine Learning","Friuli-Venezia Giulia",2
+"798","TRIESTE","LM-44","DATA SCIENCE AND SCIENTIFIC COMPUTING",2022,"Big Data","Friuli-Venezia Giulia",2
+"799","TRIESTE","LM-44","DATA SCIENCE AND SCIENTIFIC COMPUTING",2022,"Data Analytics","Friuli-Venezia Giulia",2
+"800","TUSCIA","L-4","Design per l'Industria Sostenibile e il Territorio",2022,"Internet Delle Cose","Lazio",11
+"801","TUSCIA","L-4","Design per l'Industria Sostenibile e il Territorio",2022,"Economia Circolare","Lazio",11
+"802","TUSCIA","LM-7","Biotecnologie per la sicurezza e la qualita' agro-alimentare",2022,"Nutraceutica","Lazio",11
+"803","TUSCIA","LM-8","Biotecnologie industriali per la salute e il benessere",2022,"Economia Circolare","Lazio",11
+"804","TUSCIA","LM-62","Scienze della politica, della sicurezza internazionale e della comunicazione pubblica",2022,"Cybersecurity","Lazio",11
+"805","TUSCIA","LM-69","Gestione digitale dell’agricoltura e del territorio montano",2022,"Big Data","Lazio",11
+"806","TUSCIA","LM-69","Gestione digitale dell’agricoltura e del territorio montano",2022,"Agricoltura Di Precisione","Lazio",11
+"807","TUSCIA","LM-73","Scienze Forestali e Ambientali",2022,"Green","Lazio",11
+"808","TUSCIA","LM-76","ECONOMIA CIRCOLARE",2022,"Green Economy","Lazio",11
+"809","TUSCIA","LM-76","ECONOMIA CIRCOLARE",2022,"Economia Circolare","Lazio",11
+"810","TUSCIA","LM-76","ECONOMIA CIRCOLARE",2022,"Green","Lazio",11
+"811","TUSCIA","LM-77","Marketing e qualità",2022,"Digital Transformation","Lazio",11
+"812","TUSCIA","LM-90","Sicurezza e diritti umani",2022,"Green Economy","Lazio",11
+"813","TUSCIA","LM-90","Sicurezza e diritti umani",2022,"Sustainability","Lazio",11
+"814","TUSCIA","LM-90","Sicurezza e diritti umani",2022,"Green","Lazio",11
+"815","TUSCIA","LM-91","Informazione digitale",2022,"Big Data","Lazio",11
+"816","TUSCIA","LM-91","Informazione digitale",2022,"Digital Marketing","Lazio",11
+"817","UDINE","L-20","Scienze e tecnologie multimediali",2022,"Internet Of Things","Friuli-Venezia Giulia",2
+"818","UDINE","L-31","Internet of Things, Big Data, Machine Learning",2022,"Internet Of Things","Friuli-Venezia Giulia",2
+"819","UDINE","L-31","Internet of Things, Big Data, Machine Learning",2022,"Big Data","Friuli-Venezia Giulia",2
+"820","UDINE","L-31","Internet of Things, Big Data, Machine Learning",2022,"Machine Learning","Friuli-Venezia Giulia",2
+"821","UDINE","L-31","Internet of Things, Big Data, Machine Learning",2022,"Cloud","Friuli-Venezia Giulia",2
+"822","UDINE","LM-7","Biotecnologie molecolari",2022,"Nutraceutica","Friuli-Venezia Giulia",2
+"823","UDINE","LM-18","Artificial Intelligence & Cybersecurity",2022,"Artificial Intelligence","Friuli-Venezia Giulia",2
+"824","UDINE","LM-18","Artificial Intelligence & Cybersecurity",2022,"Cybersecurity","Friuli-Venezia Giulia",2
+"825","UDINE","LM-18","Artificial Intelligence & Cybersecurity",2022,"Machine Learning","Friuli-Venezia Giulia",2
+"826","UDINE","LM-18","Artificial Intelligence & Cybersecurity",2022,"Deep Learning","Friuli-Venezia Giulia",2
+"827","UDINE","LM-18","Comunicazione Multimediale e Tecnologie dell'Informazione",2022,"Machine Learning","Friuli-Venezia Giulia",2
+"828","UDINE","LM-31","Ingegneria gestionale",2022,"Analytics","Friuli-Venezia Giulia",2
+"829","UDINE","LM-35","Ingegneria per l'ambiente, il territorio e la protezione civile",2022,"Sustainable Development Goals","Friuli-Venezia Giulia",2
+"830","UDINE","LM-77","Marketing, Gestione ed organizzazione Internazionali",2022,"Big Data","Friuli-Venezia Giulia",2
+"831","Urbino Carlo Bo","L-31","Informatica Applicata",2022,"Cloud","Marche",4
+"832","Urbino Carlo Bo","LM-18","Informatica Applicata",2022,"Internet Of Things","Marche",4
+"833","Urbino Carlo Bo","LM-18","Informatica Applicata",2022,"Cloud","Marche",4
+"834","Urbino Carlo Bo","LM-18","Informatica Applicata",2022,"Big Data","Marche",4
+"835","Urbino Carlo Bo","LM-18","Informatica Applicata",2022,"Cybersecurity","Marche",4
+"836","Urbino Carlo Bo","LM-18","Informatica Applicata",2022,"Machine Learning","Marche",4
+"837","Urbino Carlo Bo","LM-18","Informatica Applicata",2022,"Cloud Computing","Marche",4
+"838","VALLE D'AOSTA","LM-56","Economia e politiche del territorio e dell'impresa",2022,"Green Economy","Valle D'Aosta",1
+"839","""Ca' Foscari"" VENEZIA","LM-8","Biotecnologie per l'ambiente e lo sviluppo sostenibile",2022,"Economia Circolare","Veneto",4
+"840","""Ca' Foscari"" VENEZIA","LM-44","Ingegneria Fisica",2022,"Soft Skills","Veneto",4
+"841","""Ca' Foscari"" VENEZIA","LM-75","Scienze Ambientali",2022,"Green","Veneto",4
+"842","""Ca' Foscari"" VENEZIA","LM-91","Analisi dei dati per il business e la società",2022,"Flipped Classroom","Veneto",4
+"843","Università IUAV di VENEZIA","L-4","Design",2022,"Economia Circolare","Veneto",4
+"844","Università IUAV di VENEZIA","L-4","Design",2022,"Green","Veneto",4
+"845","Università IUAV di VENEZIA","LM-48","Urbanistica e Pianificazione del Territorio",2022,"Sustainable Development Goals","Veneto",4
+"846","Università IUAV di VENEZIA","LM-48","Urbanistica e Pianificazione del Territorio",2022,"Green","Veneto",4
+"847","VERONA","L-5","Filosofia",2022,"Genealogia","Veneto",4
+"848","VERONA","L-11","Lingue e letterature per l'editoria e i media digitali",2022,"Digital Humanities","Veneto",4
+"849","VERONA","L-14","Servizi giuridici per imprese, amministrazioni e no-profit",2022,"Soft Skills","Veneto",4
+"850","VERONA","L-18","Economia e innovazione aziendale",2022,"Soft Skills","Veneto",4
+"851","VERONA","L-33","Economia e commercio",2022,"Data Analytics","Veneto",4
+"852","VERONA","L-33","Economia e commercio",2022,"Big Data","Veneto",4
+"853","VERONA","L/SNT4","Assistenza sanitaria (abilitante alla professione sanitaria di Assistente sanitario)",2022,"Fake News","Veneto",4
+"854","VERONA","LM-8","Biotecnologie per le biorisorse e lo sviluppo ecosostenibile",2022,"Diritto Della Proprietà Intellettuale","Veneto",4
+"855","VERONA","LM-18","Intelligenza artificiale",2022,"Artificial Intelligence","Veneto",4
+"856","VERONA","LM-18","Intelligenza artificiale",2022,"Machine Learning","Veneto",4
+"857","VERONA","LM-18","Intelligenza artificiale",2022,"Deep Learning","Veneto",4
+"858","VERONA","LM-18","Intelligenza artificiale",2022,"Cloud","Veneto",4
+"859","VERONA","LM-32","Ingegneria informatica per la robotica e l'industria intelligente",2022,"Data Science","Veneto",4
+"860","VERONA","LM-37","Lingue, letterature e cultura digitale",2022,"Digital Humanities","Veneto",4
+"861","VERONA","LM-56","Economia e Analisi dei Dati",2022,"Analisi Delle Serie Storiche","Veneto",4
+"862","VERONA","LM-77","Management e strategia d'impresa",2022,"Flipped Classroom","Veneto",4
+"863","VERONA","LM-78","Scienze filosofiche",2022,"Genealogia","Veneto",4
+"864","VERONA","LM-91","Data Science",2022,"Data Science","Veneto",4
+"865","VERONA","LM-91","Data Science",2022,"Big Data","Veneto",4
+"866","VERONA","LM-91","Data Science",2022,"Machine Learning","Veneto",4
+"867","Napoli Federico II","LM-71","Chimica Industriale per l'Economia Circolare e la Bioeconomia",2022,"Bioeconomia","Campania",10
+"868","Napoli Federico II","LM-91","Data Science",2022,"Data Science","Campania",10
+"869","PADOVA","LM-71","Chimica e tecnologie sostenibili per l'economia circolare",2022,"Economia Circolare","Lombardia",13
+"870","Politecnica delle MARCHE","LM-56","DATA SCIENCE PER L'ECONOMIA E LE IMPRESE",2022,"Data Science","Marche",4
+"871","BARI","L-3","DAMS - Discipline dell'audiovisivo, della musica e dello spettacolo",2022,"Marketing Digitale","Puglia",7
+"872","BARI","LM-5","Patrimonio digitale. Musei, Archivi, Biblioteche",2022,"Competenze Digitali","Puglia",7
+"873","BARI","LM-77","Gestione Strategica e Marketing Digitale",2022,"Marketing Digitale","Puglia",7
+"874","BARI","LM-77","Innovazione, Governance e Sostenibilità",2022,"Trasformazione Digitale","Puglia",7
+"875","BARI","LM-91","Data Science",2022,"Things","Puglia",7
+"876","BARI","LM Data","Data Science",2022,"Things","Puglia",7
+"877","Politecnico di BARI","LM Data","Trasformazione Digitale",2022,"Trasformazione Digitale","Puglia",7
+"878","BOLOGNA","LMG/01","GIURISPRUDENZA",2022,"Trasformazione Digitale","Emilia-Romagna",4
+"879","BOLOGNA","LM-16","Mercato energetico rinnovabile e Finanza",2022,"Tecnologie Ingegneristiche","Emilia-Romagna",4
+"880","BOLOGNA","LM-63","Governance e politiche dell’innovazione digitale",2022,"Trasformazione Digitale","Emilia-Romagna",4
+"881","BOLOGNA","LM-77","Management internazionale",2022,"Trasformazione Digitale","Emilia-Romagna",4
+"882","BOLOGNA","LM-91","Gestione della trasformazione digitale",2022,"Trasformazione Digitale","Emilia-Romagna",4
+"883","Libera Università di BOLZANO","L-31","Informatica e Management delle Aziende digitali",2022,"Trasformazione Digitale","Trentino-Alto Adige",2
+"884","BRESCIA","L-8","Ingegneria delle tecnologie per l'impresa digitale",2022,"Trasformazione Digitale","Lombardia",13
+"885","CAGLIARI","LM-18","Informatica",2022,"Things","Sardegna",2
+"886","CAGLIARI","LM-91","Data Science, Business Analytics e Innovazione",2022,"Marketing Digitale","Sardegna",2
+"887","della CALABRIA","LM-43","Gestione e Conservazione dei Documenti digitali",2022,"Competenze Digitali","Calabria",4
+"888","CAMERINO","L-31","Informatica per la Comunicazione Digitale",2022,"Trasformazione Digitale","Marche",4
+"889","CAMERINO","L/GASTR","Scienze gastronomiche",2022,"Scienze Delle Produzioni","Marche",4
+"890","CAMERINO","L/GASTR","Scienze gastronomiche",2022,"Scienze Gastronomiche","Marche",4
+"891","CASSINO e LAZIO MERIDIONALE","LM-89","Metodi e tecnologie per il patrimonio culturale",2022,"Competenze Digitali","Lazio",11
+"892","CHIETI-PESCARA","LM-77","Marketing Digitale",2022,"Marketing Digitale","Abruzzo",3
+"893","CHIETI-PESCARA","LM/SC-GIUR","Scienze Giuridiche per l'internazionalizzazione e l'innovazione dell'impresa",2022,"Marketing Digitale","Abruzzo",3
+"894","FIRENZE","LM-31","Ingegneria Gestionale",2022,"Trasformazione Digitale","Toscana",4
+"895","FOGGIA","L-20","COMUNICAZIONE, RELAZIONI PUBBLICHE E TECNOLOGIE DIGITALI",2022,"Competenze Digitali","Puglia",7
+"896","FOGGIA","LM-91","INNOVAZIONE DIGITALE E COMUNICAZIONE",2022,"Competenze Digitali","Puglia",7
+"897","GENOVA","LM/DS","Tecnologie ingegneristiche per le strategie (e la sicurezza)",2022,"Tecnologie Ingegneristiche","Liguria",1
+"898","INSUBRIA","L-18","ECONOMIA E MANAGEMENT DELL'INNOVAZIONE E DELLA SOSTENIBILITA'",2022,"Competenze Digitali","Lombardia",13
+"899","L'AQUILA","LM-32","INGEGNERIA INFORMATICA",2022,"Things","Abruzzo",3
+"900","MACERATA","L-P03","Umanesimo digitale: sistemi multimediali intelligenti per le digital humanities",2022,"Trasformazione Digitale","Marche",4
+"901","MILANO","LM-79","Geofisica",2022,"Competenze Digitali","Lombardia",13
+"902","Politecnico di MILANO","LM-32","Ingegneria del calcolo ad alte prestazioni",2022,"Trasformazione Digitale","Lombardia",13
+"903","IULM - MILANO","LM-59","Marketing, consumi e comunicazione",2022,"Marketing Digitale","Lombardia",13
+"904","MODENA e REGGIO EMILIA","L-18","Marketing digitale",2022,"Marketing Digitale","Emilia-Romagna",4
+"905","MODENA e REGGIO EMILIA","L-P03","Tecnologie per l'Industria Intelligente",2022,"Competenze Digitali","Emilia-Romagna",4
+"906","MODENA e REGGIO EMILIA","LM-77","International Management",2022,"Trasformazione Digitale","Emilia-Romagna",4
+"907","MOLISE","L-20","Scienze della comunicazione",2022,"Competenze Digitali","Molise",1
+"908","Napoli Federico II","L-7","Ingegneria delle Infrastrutture e Servizi",2022,"Competenze Digitali","Campania",10
+"909","Napoli Federico II","LM-41","Medicina e chirurgia",2022,"Tecnologie Ingegneristiche","Campania",10
+"910","Napoli Federico II","LM-88","Innovazione sociale",2022,"Competenze Digitali","Campania",10
+"911","CAMPANIA - ""L. VANVITELLI""","L-18","Economia Aziendale",2022,"Trasformazione Digitale","Campania",10
+"912","CAMPANIA - ""L. VANVITELLI""","LM-77","ECONOMIA E MANAGEMENT",2022,"Marketing Digitale","Campania",10
+"913","""Parthenope"" di NAPOLI","LM-77","Management della Moda, dell'Arte e del Cibo",2022,"Trasformazione Digitale","Campania",10
+"914","PADOVA","LM-27","ICT for Internet and multimedia - Ingegneria per le Comunicazioni Multimediali e Internet",2022,"Things","Lombardia",13
+"915","PADOVA","LM-31","Ingegneria gestionale",2022,"Trasformazione Digitale","Lombardia",13
+"916","PADOVA","LM-50","Management dei servizi educativi e Formazione continua",2022,"Competenze Digitali","Lombardia",13
+"917","PALERMO","L-8","Ingegneria Elettronica",2022,"Things","Sicilia",4
+"918","PALERMO","LM-21","Ingegneria Biomedica",2022,"Things","Sicilia",4
+"919","PALERMO","LM-28","Ingegneria Elettrica",2022,"Competenze Digitali","Sicilia",4
+"920","PALERMO","LM-29","Ingegneria elettronica e delle telecomunicazioni",2022,"Competenze Digitali","Sicilia",4
+"921","PALERMO","LM-31","Ingegneria gestionale",2022,"Trasformazione Digitale","Sicilia",4
+"922","PALERMO","LM-31","Ingegneria gestionale",2022,"Competenze Digitali","Sicilia",4
+"923","PALERMO","LM-31","Ingegneria Gestionale",2022,"Trasformazione Digitale","Sicilia",4
+"924","PALERMO","LM-31","Ingegneria Gestionale",2022,"Competenze Digitali","Sicilia",4
+"925","PARMA","L-1","Beni Artistici, Librari e dello Spettacolo",2022,"Competenze Digitali","Emilia-Romagna",4
+"926","PARMA","L/GASTR","Scienze Gastronomiche",2022,"Scienze Gastronomiche","Emilia-Romagna",4
+"927","PAVIA","LM-77","International business and entrepreneurship - Management internazionale e imprenditorialità",2022,"Trasformazione Digitale","Lombardia",13
+"928","PERUGIA","LM-29","Ingegneria Elettronica per l'Internet-of-Things",2022,"Things","Umbria",2
+"929","Stranieri di PERUGIA","L-10","Digital Humanities per l'italiano",2022,"Competenze Digitali","Umbria",2
+"930","Stranieri di PERUGIA","L-15","Made in Italy, cibo e ospitalità",2022,"Scienze Gastronomiche","Umbria",2
+"931","Stranieri di PERUGIA","L-15","Made in Italy, cibo e ospitalità",2022,"Scienze Delle Produzioni","Umbria",2
+"932","PISA","LM-31","Ingegneria Gestionale",2022,"Trasformazione Digitale","Toscana",4
+"933","PISA","LM-77","MANAGEMENT E CONTROLLO DEI PROCESSI LOGISTICI",2022,"Data Analytics","Toscana",4
+"934","Politecnica delle MARCHE","L-18","Economia aziendale",2022,"Trasformazione Digitale","Marche",4
+"935","Politecnica delle MARCHE","L-33","DIGITAL ECONOMICS AND BUSINESS",2022,"Competenze Digitali","Marche",4
+"936","Mediterranea di REGGIO CALABRIA","LM-27","Ingegneria Informatica e dei sistemi per le Telecomunicazioni",2022,"Things","Calabria",4
+"937","EUROPEA di ROMA","LM-43","Management della Transizione Digitale",2022,"Trasformazione Digitale","Lazio",11
+"938","ROMA ""La Sapienza""","L/GASTR","Scienze, culture e politiche gastronomiche per il benessere",2022,"Scienze Gastronomiche","Lazio",11
+"939","ROMA ""La Sapienza""","LM-19","Media, comunicazione digitale e giornalismo",2022,"Marketing Digitale","Lazio",11
+"940","ROMA ""La Sapienza""","LM-41","Medicina e chirurgia HT",2022,"Tecnologie Ingegneristiche","Lazio",11
+"941","ROMA ""La Sapienza""","LM/GASTR","Management delle scienze gastronomiche per il benessere",2022,"Scienze Gastronomiche","Lazio",11
+"942","ROMA TRE","L-14","Servizi giuridici per la sicurezza territoriale e informatica",2022,"Things","Lazio",11
+"943","ROMA TRE","LM-62","Scienze Politiche per la Societa' Digitale",2022,"Trasformazione Digitale","Lazio",11
+"944","Luiss Guido Carli","L-18","AMMINISTRAZIONE AZIENDALE",2022,"Competenze Digitali","Lazio",11
+"945","Luiss Guido Carli","LM-52","RELAZIONI INTERNAZIONALI",2022,"Competenze Digitali","Lazio",11
+"946","Luiss Guido Carli","LM-62","POLITICHE E GOVERNO IN EUROPA",2022,"Competenze Digitali","Lazio",11
+"947","Luiss Guido Carli","LM-62","GOVERNO, AMMINISTRAZIONE E POLITICA",2022,"Trasformazione Digitale","Lazio",11
+"948","Luiss Guido Carli","LM-77","MANAGEMENT STRATEGICO",2022,"Competenze Digitali","Lazio",11
+"949","Luiss Guido Carli","LM/SC-GIUR","DIRITTO, INNOVAZIONE DIGITALE E SOSTENIBILITA'",2022,"Trasformazione Digitale","Lazio",11
+"950","Libera Univ. ""Maria SS.Assunta""-LUMSA - ROMA","LM-62","Politiche, Amministrazioni e Innovazione",2022,"Trasformazione Digitale","Lazio",11
+"951","SALENTO","L-18","Management Digitale",2022,"Trasformazione Digitale","Puglia",7
+"952","SASSARI","LM-77","Management dell'innovazione per il turismo sostenibile",2022,"Marketing Digitale","Sardegna",2
+"953","SIENA","L-P02","Agribusiness",2022,"Competenze Digitali","Toscana",4
+"954","TORINO","LM-59","Comunicazione, ICT e media",2022,"Things","Piemonte",3
+"955","TORINO","LM-77","AMMINISTRAZIONE E GESTIONE DIGITALE DELLE AZIENDE",2022,"Trasformazione Digitale","Piemonte",3
+"956","Politecnico di TORINO","LM-29","Nanotechnologies for ICTs (Nanotecnologie per le ICT)",2022,"Things","Piemonte",3
+"957","Politecnico di TORINO","LM-91","Competenze digitali per transizioni sociali sostenibili",2022,"Trasformazione Digitale","Piemonte",3
+"958","Politecnico di TORINO","LM-91","Competenze digitali per transizioni sociali sostenibili",2022,"Things","Piemonte",3
+"959","Politecnico di TORINO","LM-91","Competenze digitali per transizioni sociali sostenibili",2022,"Competenze Digitali","Piemonte",3
+"960","TRENTO","L-8","Ingegneria Informatica, delle Comunicazioni ed Elettronica",2022,"Trasformazione Digitale","Trentino-Alto Adige",2
+"961","UDINE","L-5","Filosofia e trasformazione digitale",2022,"Trasformazione Digitale","Friuli-Venezia Giulia",2
+"962","UDINE","L-20","Scienze e tecnologie multimediali",2022,"Things","Friuli-Venezia Giulia",2
+"963","UDINE","L/GASTR","Scienza e Cultura del Cibo",2022,"Scienze Gastronomiche","Friuli-Venezia Giulia",2
+"964","Urbino Carlo Bo","LM-18","Informatica Applicata",2022,"Competenze Digitali","Marche",4
+"965","""Ca' Foscari"" VENEZIA","L-18","Management digitale",2022,"Trasformazione Digitale","Veneto",4
+"966","""Ca' Foscari"" VENEZIA","L-18","Management digitale",2022,"Marketing Digitale","Veneto",4
